@@ -1,0 +1,212 @@
+version: 2.1
+orbs:
+  k8s: circleci/kubernetes@0.7.0
+  slack: circleci/slack@3.4.2
+commands:
+  git_checkout_from_cache:
+    description: "Git checkout and save cache"
+    steps:
+      - restore_cache:
+          keys:
+            - source-v1-{{ .Branch }}-{{ .Revision }}
+            - source-v1-{{ .Branch }}-
+            - source-v1-
+      - run: 
+          name: Fetch git tags 
+          command: |
+            mkdir -p ~/.ssh
+            ssh-keyscan github.com >> ~/.ssh/known_hosts
+            echo 'github.com ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAq2A7hRGmdnm9tUDbO9IDSwBK6TbQa+PXYPCPy6rbTrTtw7PHkccKrpp0yVhp5HdEIcKr6pLlVDBfOLX9QUsyCOV0wzfjIJNlGEYsdlLJizHhbn2mUjvSAHQqZETYP81eFzLQNnPHt4EVVUh7VfDESU84KezmD5QlWpXLmvU31/yMf+Se8xhHTvKSCZIFImWwoG6mbUoWf9nzpIoaSjB+weqqUUmpaaasXVal72J+UX2B+2RPW3RcT0eOzQgqlJL3RKrTJvdsjE3JEAvGq3lGHSZXy28G3skua2SmVi/w4yCE6gbODqnTWlg7+wC604ydGXA8VJiS5ap43JXiUFFAaQ== ' >> ~/.ssh/known_hosts
+            # Fetch tags if git cache is present
+            if [ -e /home/circleci/project/.git ]
+            then
+              git fetch origin --tags
+            fi
+      - checkout
+      - run:
+          name: Compress git objects 
+          command: git gc
+      - save_cache:
+          key: source-v1-{{ .Branch }}-{{ .Revision }}
+          paths:
+            - ".git"
+  npm_install:
+    description: "npm install and save cache"
+    steps:
+      - restore_cache:
+          keys:
+            - node-{{ checksum "package-lock.json" }}
+            - node-
+      - run:
+          name: Install npm packages
+          command: npm install
+      - save_cache:
+          key: node-{{ checksum "package-lock.json" }}
+          paths:
+            - "node_modules"
+  test:
+    description: "Run npm test"
+    steps:
+      - run:
+          name: "Run test"
+          command: npm test
+  build:
+    description: "Build for release target"
+    parameters:
+      target:
+        type: string
+        default: "staging"
+    steps:
+      - run:
+          name: Building dist for << parameters.target >>
+          command: node_modules/grunt/bin/grunt releaseci --<< parameters.target >>
+  deploy:
+    description: "Deploy to static branches"
+    parameters:
+      target_branch:
+        type: string
+    steps:
+      - checkout
+      - attach_workspace:
+          at: dist
+      - run:
+          name: Tag build
+          command: echo "<< parameters.target_branch >> $(date -u +'%Y-%m-%dT%H:%M:%SZ')" > dist/version
+      - run:
+          name: Install and configure dependencies
+          command: |
+            sudo npm install -g gh-pages@2.0.1
+            git config user.email "ci-build@binary.com"
+            git config user.name "ci-build"
+      - add_ssh_keys:
+          fingerprints:
+            - "01:67:4a:6d:26:9c:70:c4:1a:60:91:88:d9:dd:f0:83"
+      - run:
+          name: Deploy docs to gh-pages branch
+          command: gh-pages -d dist --branch << parameters.target_branch >> --message '[skip ci]'
+  docker_build_push_staging:
+    description: "Build Docker image"
+    parameters:
+      docker_image_tag:
+        type: string
+        default: "latest-staging"
+    steps:
+      - setup_remote_docker
+      - run:
+          name: Building docker image
+          command: |
+            docker build -t ${DOCKHUB_ORGANISATION}/smarttrader-deriv-app:${CIRCLE_SHA1} -t ${DOCKHUB_ORGANISATION}/smarttrader-deriv-app:<< parameters.docker_image_tag >> .
+      - run: 
+          name: Pushing Image to docker hub
+          command: |
+            echo $DOCKERHUB_PASSWORD | docker login -u $DOCKERHUB_USERNAME --password-stdin
+            docker push ${DOCKHUB_ORGANISATION}/smarttrader-deriv-app:${CIRCLE_SHA1}
+            docker push ${DOCKHUB_ORGANISATION}/smarttrader-deriv-app:<< parameters.docker_image_tag >>
+  docker_build_push:
+    description: "Build Docker image"
+    parameters:
+      docker_image_tag:
+        type: string
+        default: "latest"
+    steps:
+      - setup_remote_docker
+      - run: 
+          name: Building docker image
+          command: |
+            docker build -t ${DOCKHUB_ORGANISATION}/smarttrader-deriv-app:${CIRCLE_TAG} -t ${DOCKHUB_ORGANISATION}/smarttrader-deriv-app:<< parameters.docker_image_tag >> .
+      - run: 
+          name: Pushing Image to docker hub
+          command: |
+            echo $DOCKERHUB_PASSWORD | docker login -u $DOCKERHUB_USERNAME --password-stdin
+            docker push ${DOCKHUB_ORGANISATION}/smarttrader-deriv-app:${CIRCLE_TAG}
+            docker push ${DOCKHUB_ORGANISATION}/smarttrader-deriv-app:<< parameters.docker_image_tag >>
+  k8s_deploy:
+    description: "Deploy to k8s cluster"
+    parameters:
+      k8s_namespace:
+        type: string
+        default: "smarttrader-deriv-app-staging"
+      k8s_version:
+        type: string
+        default: ${CIRCLE_SHA1}
+    steps:
+      - k8s/install-kubectl
+      - run: 
+          name: Deploying to k8s cluster for service << parameters.k8s_namespace >>
+          command: |
+            export NAMESPACE=<< parameters.k8s_namespace >>
+            git clone https://github.com/binary-com/devops-ci-scripts
+            cd devops-ci-scripts/k8s-build_tools
+            echo $CA_CRT | base64 --decode > ca.crt
+            ./release.sh smarttrader-deriv-app << parameters.k8s_version >>
+
+  notify_slack:
+    description: "Notify slack"
+    steps:
+      - slack/status:
+          include_project_field: false
+          failure_message: "Release failed for smarttrader.deriv.com with version *$(cat dist/version)*"
+          success_message: "Release succeeded for smarttrader.deriv.com with version *$(cat dist/version)*"
+          webhook: ${SLACK_WEBHOOK}
+jobs:
+  test:
+    docker:
+      - image: circleci/node:9.8.0-stretch
+    steps:
+      - git_checkout_from_cache
+      - npm_install
+      - test
+  release_beta:
+    docker:
+      - image: circleci/node:9.8.0-stretch
+    steps:
+      - git_checkout_from_cache
+      - npm_install
+      - test
+      - build:
+         target: 'staging'
+      - build:
+          target: 'translations'
+      - deploy:
+          target_branch: "staging"
+      - docker_build_push_staging:
+          docker_image_tag: "latest-staging"
+      - k8s_deploy
+      - notify_slack
+  release_production:
+    docker:
+      - image: circleci/node:9.8.0-stretch
+    steps:
+      - git_checkout_from_cache
+      - npm_install
+      - test
+      - build:
+          target: 'production'
+      - deploy:
+          target_branch: "production"
+      - docker_build_push:
+          docker_image_tag: latest
+      - k8s_deploy:
+          k8s_namespace: "smarttrader-deriv-app-production"
+          k8s_version: ${CIRCLE_TAG}
+      - notify_slack
+      
+workflows:
+  test:
+    jobs:
+      - test:
+          filters:
+            branches:
+              ignore: /^master$/
+  release:
+    jobs:
+      - release_beta:
+          filters:
+            branches:
+              only: /^master$/
+      - release_production:
+          filters:
+            branches:
+              ignore: /.*/
+            tags:
+              only: /^production.*/

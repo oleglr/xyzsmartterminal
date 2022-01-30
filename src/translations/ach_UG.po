@@ -1,0 +1,3003 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: dsmarttrader\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2021-11-12 06:53\n"
+"Last-Translator: \n"
+"Language-Team: Acholi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: dsmarttrader\n"
+"X-Crowdin-Project-ID: 397380\n"
+"X-Crowdin-Language: ach\n"
+"X-Crowdin-File: messages.pot\n"
+"X-Crowdin-File-ID: 196\n"
+"Language: ach_UG\n"
+
+msgid "404"
+msgstr "crwdns90258:0crwdne90258:0"
+
+msgid " (Region added)"
+msgstr "crwdns162674:0crwdne162674:0"
+
+msgid " (Temporarily unavailable)"
+msgstr "crwdns162676:0crwdne162676:0"
+
+msgid "%1 Account %2"
+msgstr "crwdns90328:0%1crwdnd90328:0%2crwdne90328:0"
+
+msgid "%1 Please click the link below to restart the password recovery process."
+msgstr "crwdns90334:0%1crwdne90334:0"
+
+msgid "%1 and %2 cannot be the same."
+msgstr "crwdns90346:0%1crwdnd90346:0%2crwdne90346:0"
+
+msgid "%1 days %2 hours %3 minutes"
+msgstr "crwdns90356:0%1crwdnd90356:0%2crwdnd90356:0%3crwdne90356:0"
+
+msgid "%1 deposit from %2 to account number %3 is done. Transaction ID: %4"
+msgstr "crwdns90358:0%1crwdnd90358:0%2crwdnd90358:0%3crwdnd90358:0%4crwdne90358:0"
+
+msgid "%1 has been credited into your MT5 Demo Account: %2."
+msgstr "crwdns90366:0%1crwdnd90366:0%2crwdne90366:0"
+
+msgid "%1 has been credited into your Virtual Account: %2."
+msgstr "crwdns90368:0%1crwdnd90368:0%2crwdne90368:0"
+
+msgid "%1 withdrawal from account number %2 to %3 is done. Transaction ID: %4"
+msgstr "crwdns90482:0%1crwdnd90482:0%2crwdnd90482:0%3crwdnd90482:0%4crwdne90482:0"
+
+msgid "%1Manage your accounts%2"
+msgstr "crwdns90530:0%1crwdnd90530:0%2crwdne90530:0"
+
+msgid "%1No, change my fiat account's currency now%2"
+msgstr "crwdns90532:0%1crwdnd90532:0%2crwdne90532:0"
+
+msgid "%1Return to trading page%2"
+msgstr "crwdns90536:0%1crwdnd90536:0%2crwdne90536:0"
+
+msgid "1. This link was sent by you"
+msgstr "crwdns162678:0crwdne162678:0"
+
+msgid "2. Your desktop window stays open"
+msgstr "crwdns162680:0crwdne162680:0"
+
+msgid "A whole new trading experience on a powerful yet easy to use platform."
+msgstr "crwdns168613:0crwdne168613:0"
+
+msgid "A word by itself is easy to guess"
+msgstr "crwdns162682:0crwdne162682:0"
+
+msgid "AM"
+msgstr "crwdns90772:0crwdne90772:0"
+
+msgid "Account"
+msgstr "crwdns90846:0crwdne90846:0"
+
+msgid "Account Authenticated"
+msgstr "crwdns90848:0crwdne90848:0"
+
+msgid "Account access is temporarily limited. Please check your inbox for more details."
+msgstr "crwdns90866:0crwdne90866:0"
+
+msgid "Account authentication"
+msgstr "crwdns116924:0crwdne116924:0"
+
+msgid "Account balance:"
+msgstr "crwdns90868:0crwdne90868:0"
+
+msgid "Acknowledge"
+msgstr "crwdns90914:0crwdne90914:0"
+
+msgid "Action"
+msgstr "crwdns90920:0crwdne90920:0"
+
+msgid "Add +/– to define a barrier offset. For example, +0.005 means a barrier that's 0.005 higher than the entry spot."
+msgstr "crwdns90932:0crwdne90932:0"
+
+msgid "Add Deriv account"
+msgstr "crwdns116926:0crwdne116926:0"
+
+msgid "Add another word or two. Uncommon words are better."
+msgstr "crwdns162684:0crwdne162684:0"
+
+msgid "Adjust trade parameters"
+msgstr "crwdns90944:0crwdne90944:0"
+
+msgid "Admin"
+msgstr "crwdns90946:0crwdne90946:0"
+
+msgid "Agree and accept"
+msgstr "crwdns162686:0crwdne162686:0"
+
+msgid "All details must be clear — nothing blurry"
+msgstr "crwdns162688:0crwdne162688:0"
+
+msgid "All markets are closed now. Please try again later."
+msgstr "crwdns91050:0crwdne91050:0"
+
+msgid "All-uppercase is almost as easy to guess as all-lowercase"
+msgstr "crwdns162690:0crwdne162690:0"
+
+msgid "Allow camera access"
+msgstr "crwdns162692:0crwdne162692:0"
+
+msgid "Allow equals"
+msgstr "crwdns91078:0crwdne91078:0"
+
+msgid "Already have an account?"
+msgstr "crwdns91080:0crwdne91080:0"
+
+msgid "Amount"
+msgstr "crwdns91098:0crwdne91098:0"
+
+msgid "Amount in"
+msgstr "crwdns91100:0crwdne91100:0"
+
+msgid "An error occurred while loading the component"
+msgstr "crwdns162694:0crwdne162694:0"
+
+msgid "Apply now as a professional investor"
+msgstr "crwdns91198:0crwdne91198:0"
+
+msgid "Apr"
+msgstr "crwdns91212:0crwdne91212:0"
+
+msgid "April"
+msgstr "crwdns91214:0crwdne91214:0"
+
+msgid "Are you sure that you want to permanently delete the token"
+msgstr "crwdns91222:0crwdne91222:0"
+
+msgid "Are you sure that you want to permanently revoke access to the application"
+msgstr "crwdns91224:0crwdne91224:0"
+
+msgid "Are you sure you want to create a fiat account in %1?"
+msgstr "crwdns91226:0%1crwdne91226:0"
+
+msgid "Are you sure you want to create your %1 account now?"
+msgstr "crwdns91228:0%1crwdne91228:0"
+
+msgid "Are you sure you want to deposit in %1?"
+msgstr "crwdns91230:0%1crwdne91230:0"
+
+msgid "Are you sure?"
+msgstr "crwdns91232:0crwdne91232:0"
+
+msgid "Asian Down"
+msgstr "crwdns91300:0crwdne91300:0"
+
+msgid "Asian Up"
+msgstr "crwdns91302:0crwdne91302:0"
+
+msgid "Asian contracts will be refunded at the purchase price if the contract doesn't end within 5 minutes."
+msgstr "crwdns91304:0crwdne91304:0"
+
+msgid "Asian options settle by comparing the <strong>last tick</strong> with the average spot over the period."
+msgstr "crwdns91306:0crwdne91306:0"
+
+msgid "Asians"
+msgstr "crwdns91308:0crwdne91308:0"
+
+msgid "Ask me later"
+msgstr "crwdns91316:0crwdne91316:0"
+
+msgid "Asset"
+msgstr "crwdns91330:0crwdne91330:0"
+
+msgid "At reset time, if the spot is in the opposite direction of your prediction, the barrier is reset to that spot."
+msgstr "crwdns91374:0crwdne91374:0"
+
+msgid "Audit"
+msgstr "crwdns91376:0crwdne91376:0"
+
+msgid "Audit Page"
+msgstr "crwdns162696:0crwdne162696:0"
+
+msgid "Aug"
+msgstr "crwdns91380:0crwdne91380:0"
+
+msgid "August"
+msgstr "crwdns91382:0crwdne91382:0"
+
+msgid "Authenticate your account now to take full advantage of all payment methods available."
+msgstr "crwdns116930:0crwdne116930:0"
+
+msgid "Automated trading at your fingertips. No coding needed."
+msgstr "crwdns168615:0crwdne168615:0"
+
+msgid "Available Markets"
+msgstr "crwdns91420:0crwdne91420:0"
+
+msgid "Average"
+msgstr "crwdns91428:0crwdne91428:0"
+
+msgid "Avoid dates and years that are associated with you"
+msgstr "crwdns162698:0crwdne162698:0"
+
+msgid "Avoid recent years"
+msgstr "crwdns162700:0crwdne162700:0"
+
+msgid "Avoid repeated words and characters"
+msgstr "crwdns162702:0crwdne162702:0"
+
+msgid "Avoid sequences"
+msgstr "crwdns162704:0crwdne162704:0"
+
+msgid "Avoid years that are associated with you"
+msgstr "crwdns162706:0crwdne162706:0"
+
+msgid "Back to trading"
+msgstr "crwdns91480:0crwdne91480:0"
+
+msgid "Balance"
+msgstr "crwdns91486:0crwdne91486:0"
+
+msgid "Barrier"
+msgstr "crwdns91500:0crwdne91500:0"
+
+msgid "Barrier change"
+msgstr "crwdns116934:0crwdne116934:0"
+
+msgid "Barrier offset"
+msgstr "crwdns91504:0crwdne91504:0"
+
+msgid "Bid"
+msgstr "crwdns91556:0crwdne91556:0"
+
+msgid "Binance USD"
+msgstr "crwdns162708:0crwdne162708:0"
+
+msgid "Binary Coin"
+msgstr "crwdns91612:0crwdne91612:0"
+
+msgid "Bitcoin"
+msgstr "crwdns91684:0crwdne91684:0"
+
+msgid "Blurry photo detected"
+msgstr "crwdns162710:0crwdne162710:0"
+
+msgid "Browser"
+msgstr "crwdns91726:0crwdne91726:0"
+
+msgid "Buy"
+msgstr "crwdns91746:0crwdne91746:0"
+
+msgid "Buy price"
+msgstr "crwdns91754:0crwdne91754:0"
+
+msgid "By purchasing the %1\"Close-Low\"%2 contract, you'll win the multiplier times the difference between the %1close%2 and %1low%2 over the duration of the contract."
+msgstr "crwdns91782:0%1crwdnd91782:0%2crwdnd91782:0%1ccrwdnd91782:0%2crwdnd91782:0%1locrwdnd91782:0%2crwdne91782:0"
+
+msgid "By purchasing the %1\"High-Close\"%2 contract, you'll win the multiplier times the difference between the %1high%2 and %1close%2 over the duration of the contract."
+msgstr "crwdns91784:0%1crwdnd91784:0%2crwdnd91784:0%1hicrwdnd91784:0%2crwdnd91784:0%1ccrwdnd91784:0%2crwdne91784:0"
+
+msgid "By purchasing the %1\"High-Low\"%2 contract, you'll win the multiplier times the difference between the %1high%2 and %1low%2 over the duration of the contract."
+msgstr "crwdns91786:0%1crwdnd91786:0%2crwdnd91786:0%1hicrwdnd91786:0%2crwdnd91786:0%1locrwdnd91786:0%2crwdne91786:0"
+
+msgid "Call Spread"
+msgstr "crwdns91820:0crwdne91820:0"
+
+msgid "Call Spread/Put Spread"
+msgstr "crwdns91822:0crwdne91822:0"
+
+msgid "Camera access is denied"
+msgstr "crwdns162712:0crwdne162712:0"
+
+msgid "Camera not detected"
+msgstr "crwdns162714:0crwdne162714:0"
+
+msgid "Camera not working"
+msgstr "crwdns162716:0crwdne162716:0"
+
+msgid "Camera not working?"
+msgstr "crwdns162718:0crwdne162718:0"
+
+msgid "Can you spare 15 minutes?"
+msgstr "crwdns91836:0crwdne91836:0"
+
+msgid "Cancel"
+msgstr "crwdns91858:0crwdne91858:0"
+
+msgid "Capitalization doesn't help very much"
+msgstr "crwdns162720:0crwdne162720:0"
+
+msgid "Cashier"
+msgstr "crwdns91880:0crwdne91880:0"
+
+msgid "Cashier disabled"
+msgstr "crwdns116936:0crwdne116936:0"
+
+msgid "Change API Endpoint"
+msgstr "crwdns91888:0crwdne91888:0"
+
+msgid "Change Password"
+msgstr "crwdns91892:0crwdne91892:0"
+
+msgid "Change currency"
+msgstr "crwdns123126:0crwdne123126:0"
+
+msgid "Chart"
+msgstr "crwdns91902:0crwdne91902:0"
+
+msgid "Chart is not available for this underlying."
+msgstr "crwdns91904:0crwdne91904:0"
+
+msgid "Charting for this underlying is delayed"
+msgstr "crwdns91906:0crwdne91906:0"
+
+msgid "Check back here to finish the submission"
+msgstr "crwdns162722:0crwdne162722:0"
+
+msgid "Check selfie"
+msgstr "crwdns162724:0crwdne162724:0"
+
+msgid "Check that it is connected and functional. You can also <fallback>continue verification on your phone</fallback>"
+msgstr "crwdns162726:0crwdne162726:0"
+
+msgid "Check that your number is correct"
+msgstr "crwdns162728:0crwdne162728:0"
+
+msgid "Check your connection."
+msgstr "crwdns118316:0crwdne118316:0"
+
+msgid "Check your image"
+msgstr "crwdns162730:0crwdne162730:0"
+
+msgid "Check your mobile"
+msgstr "crwdns162732:0crwdne162732:0"
+
+msgid "Checked"
+msgstr "crwdns91918:0crwdne91918:0"
+
+msgid "Checking"
+msgstr "crwdns91920:0crwdne91920:0"
+
+msgid "Choose document"
+msgstr "crwdns162734:0crwdne162734:0"
+
+msgid "Christmas Day"
+msgstr "crwdns91964:0crwdne91964:0"
+
+msgid "Click OK to proceed."
+msgstr "crwdns91976:0crwdne91976:0"
+
+msgid "Click here to open a Financial Account"
+msgstr "crwdns91978:0crwdne91978:0"
+
+msgid "Click here to open a Gaming account"
+msgstr "crwdns162736:0crwdne162736:0"
+
+msgid "Click here to open a Real Account"
+msgstr "crwdns91980:0crwdne91980:0"
+
+msgid "Close"
+msgstr "crwdns92048:0crwdne92048:0"
+
+msgid "Close identity verification screen"
+msgstr "crwdns162738:0crwdne162738:0"
+
+msgid "Close time"
+msgstr "crwdns116940:0crwdne116940:0"
+
+msgid "Close-Low"
+msgstr "crwdns92058:0crwdne92058:0"
+
+msgid "Closed Bid"
+msgstr "crwdns92060:0crwdne92060:0"
+
+msgid "Closes"
+msgstr "crwdns92066:0crwdne92066:0"
+
+msgid "Closes early (at 18:00)"
+msgstr "crwdns92068:0crwdne92068:0"
+
+msgid "Closes early (at 21:00)"
+msgstr "crwdns92070:0crwdne92070:0"
+
+msgid "Commodities"
+msgstr "crwdns92128:0crwdne92128:0"
+
+msgid "Common names and surnames are easy to guess"
+msgstr "crwdns162740:0crwdne162740:0"
+
+msgid "Complete details"
+msgstr "crwdns116942:0crwdne116942:0"
+
+msgid "Compressing Image"
+msgstr "crwdns92180:0crwdne92180:0"
+
+msgid "Confirm"
+msgstr "crwdns162742:0crwdne162742:0"
+
+msgid "Confirm changes"
+msgstr "crwdns162744:0crwdne162744:0"
+
+msgid "Connected to your mobile"
+msgstr "crwdns162746:0crwdne162746:0"
+
+msgid "Connecting to server"
+msgstr "crwdns92218:0crwdne92218:0"
+
+msgid "Connection lost"
+msgstr "crwdns162748:0crwdne162748:0"
+
+msgid "Continue"
+msgstr "crwdns162750:0crwdne162750:0"
+
+msgid "Continue on phone"
+msgstr "crwdns162752:0crwdne162752:0"
+
+msgid "Continue on your phone"
+msgstr "crwdns162754:0crwdne162754:0"
+
+msgid "Continue trading"
+msgstr "crwdns92240:0crwdne92240:0"
+
+msgid "Continue with the verification"
+msgstr "crwdns162756:0crwdne162756:0"
+
+msgid "Contract"
+msgstr "crwdns92244:0crwdne92244:0"
+
+msgid "Contract Confirmation"
+msgstr "crwdns92246:0crwdne92246:0"
+
+msgid "Contract details"
+msgstr "crwdns116944:0crwdne116944:0"
+
+msgid "Contract ends"
+msgstr "crwdns116946:0crwdne116946:0"
+
+msgid "Contract has not started yet"
+msgstr "crwdns92262:0crwdne92262:0"
+
+msgid "Contract information"
+msgstr "crwdns116948:0crwdne116948:0"
+
+msgid "Contract period"
+msgstr "crwdns92268:0crwdne92268:0"
+
+msgid "Contract result"
+msgstr "crwdns116950:0crwdne116950:0"
+
+msgid "Contract starts"
+msgstr "crwdns116952:0crwdne116952:0"
+
+msgid "Contract type"
+msgstr "crwdns116954:0crwdne116954:0"
+
+msgid "Contract will be sold at the prevailing market price when the request is received by our servers. This price may differ from the indicated price."
+msgstr "crwdns92274:0crwdne92274:0"
+
+msgid "Contracts bought"
+msgstr "crwdns123454:0crwdne123454:0"
+
+msgid "Contracts sold"
+msgstr "crwdns123456:0crwdne123456:0"
+
+msgid "Copied"
+msgstr "crwdns162758:0crwdne162758:0"
+
+msgid "Copy"
+msgstr "crwdns162760:0crwdne162760:0"
+
+msgid "Copy link"
+msgstr "crwdns162762:0crwdne162762:0"
+
+msgid "Copy the link to your mobile browser"
+msgstr "crwdns162764:0crwdne162764:0"
+
+msgid "Copy the link to your phone"
+msgstr "crwdns162766:0crwdne162766:0"
+
+msgid "Counterparty"
+msgstr "crwdns92332:0crwdne92332:0"
+
+msgid "Country not found"
+msgstr "crwdns162768:0crwdne162768:0"
+
+msgid "Country of Residence"
+msgstr "crwdns92338:0crwdne92338:0"
+
+msgid "Create %1 account"
+msgstr "crwdns92354:0%1crwdne92354:0"
+
+msgid "Create account"
+msgstr "crwdns123128:0crwdne123128:0"
+
+msgid "Credit/Debit"
+msgstr "crwdns92402:0crwdne92402:0"
+
+msgid "Crypto"
+msgstr "crwdns92406:0crwdne92406:0"
+
+msgid "Currency"
+msgstr "crwdns92434:0crwdne92434:0"
+
+msgid "Current"
+msgstr "crwdns92438:0crwdne92438:0"
+
+msgid "Current password"
+msgstr "crwdns92446:0crwdne92446:0"
+
+msgid "Current time"
+msgstr "crwdns116956:0crwdne116956:0"
+
+msgid "Current time:"
+msgstr "crwdns123458:0crwdne123458:0"
+
+msgid "Cut-off image detected"
+msgstr "crwdns162770:0crwdne162770:0"
+
+msgid "Date"
+msgstr "crwdns92506:0crwdne92506:0"
+
+msgid "Date and Time"
+msgstr "crwdns92508:0crwdne92508:0"
+
+msgid "Dates are often easy to guess"
+msgstr "crwdns162772:0crwdne162772:0"
+
+msgid "Deal cancel. fee"
+msgstr "crwdns116958:0crwdne116958:0"
+
+msgid "Dec"
+msgstr "crwdns92518:0crwdne92518:0"
+
+msgid "December"
+msgstr "crwdns92520:0crwdne92520:0"
+
+msgid "Delete"
+msgstr "crwdns92536:0crwdne92536:0"
+
+msgid "Demo"
+msgstr "crwdns92540:0crwdne92540:0"
+
+msgid "Demo Account"
+msgstr "crwdns92542:0crwdne92542:0"
+
+msgid "Demo Accounts"
+msgstr "crwdns92544:0crwdne92544:0"
+
+msgid "Demo Financial"
+msgstr "crwdns123130:0crwdne123130:0"
+
+msgid "Demo Financial STP"
+msgstr "crwdns123132:0crwdne123132:0"
+
+msgid "Demo Synthetic"
+msgstr "crwdns123134:0crwdne123134:0"
+
+msgid "Deposit"
+msgstr "crwdns92562:0crwdne92562:0"
+
+msgid "Deposits and withdrawals have been disabled on your account. Please check your email for more details."
+msgstr "crwdns92582:0crwdne92582:0"
+
+msgid "Deriv Accounts"
+msgstr "crwdns116960:0crwdne116960:0"
+
+msgid "Description"
+msgstr "crwdns92596:0crwdne92596:0"
+
+msgid "Details"
+msgstr "crwdns92602:0crwdne92602:0"
+
+msgid "Digit"
+msgstr "crwdns92628:0crwdne92628:0"
+
+msgid "Digit Differs"
+msgstr "crwdns92630:0crwdne92630:0"
+
+msgid "Digit Even"
+msgstr "crwdns92632:0crwdne92632:0"
+
+msgid "Digit Matches"
+msgstr "crwdns92634:0crwdne92634:0"
+
+msgid "Digit Odd"
+msgstr "crwdns92636:0crwdne92636:0"
+
+msgid "Digit Over"
+msgstr "crwdns92638:0crwdne92638:0"
+
+msgid "Digit Under"
+msgstr "crwdns92640:0crwdne92640:0"
+
+msgid "Digit contracts will be refunded at the purchase price if the contract doesn't end within 5 minutes."
+msgstr "crwdns92642:0crwdne92642:0"
+
+msgid "Digits"
+msgstr "crwdns92644:0crwdne92644:0"
+
+msgid "Disable"
+msgstr "crwdns92646:0crwdne92646:0"
+
+msgid "Dismiss alert"
+msgstr "crwdns162774:0crwdne162774:0"
+
+msgid "Do you want this to be a fiat account or crypto account? Please choose one:"
+msgstr "crwdns92678:0crwdne92678:0"
+
+msgid "Do you wish to continue?"
+msgstr "crwdns92686:0crwdne92686:0"
+
+msgid "Document example"
+msgstr "crwdns162776:0crwdne162776:0"
+
+msgid "Document uploaded"
+msgstr "crwdns162778:0crwdne162778:0"
+
+msgid "Documents from that country are not currently supported — <fallback>try another document type</fallback>"
+msgstr "crwdns162780:0crwdne162780:0"
+
+msgid "Documents uploaded"
+msgstr "crwdns162782:0crwdne162782:0"
+
+msgid "Documents you can use to verify your identity"
+msgstr "crwdns162784:0crwdne162784:0"
+
+msgid "Does Not Touch"
+msgstr "crwdns92696:0crwdne92696:0"
+
+msgid "Don't refresh this page"
+msgstr "crwdns162786:0crwdne162786:0"
+
+msgid "Don't want to trade in %1? You can open another cryptocurrency account."
+msgstr "crwdns92706:0%1crwdne92706:0"
+
+msgid "Driver's license"
+msgstr "crwdns162788:0crwdne162788:0"
+
+msgid "Driving licence"
+msgstr "crwdns92732:0crwdne92732:0"
+
+msgid "Due to an issue on our server, some of your MT5 accounts are unavailable at the moment. %1Please bear with us and thank you for your patience."
+msgstr "crwdns162790:0%1crwdne162790:0"
+
+msgid "Duration"
+msgstr "crwdns92764:0crwdne92764:0"
+
+msgid "Email address"
+msgstr "crwdns92862:0crwdne92862:0"
+
+msgid "Enable"
+msgstr "crwdns92874:0crwdne92874:0"
+
+msgid "Enable camera"
+msgstr "crwdns162792:0crwdne162792:0"
+
+msgid "End Time"
+msgstr "crwdns92880:0crwdne92880:0"
+
+msgid "End time"
+msgstr "crwdns116966:0crwdne116966:0"
+
+msgid "Endpoint"
+msgstr "crwdns92882:0crwdne92882:0"
+
+msgid "Ends Between"
+msgstr "crwdns92884:0crwdne92884:0"
+
+msgid "Ends Between/Ends Outside"
+msgstr "crwdns92886:0crwdne92886:0"
+
+msgid "Ends Between/Ends Outside contracts will be refunded at the purchase price if there are less than 2 ticks between the start and end times."
+msgstr "crwdns92888:0crwdne92888:0"
+
+msgid "Ends Outside"
+msgstr "crwdns92892:0crwdne92892:0"
+
+msgid "Enlarge image"
+msgstr "crwdns162794:0crwdne162794:0"
+
+msgid "Enter mobile number"
+msgstr "crwdns162796:0crwdne162796:0"
+
+msgid "Enter your mobile number:"
+msgstr "crwdns162798:0crwdne162798:0"
+
+msgid "Entry Spot"
+msgstr "crwdns92926:0crwdne92926:0"
+
+msgid "Entry spot"
+msgstr "crwdns92928:0crwdne92928:0"
+
+msgid "Equals"
+msgstr "crwdns92932:0crwdne92932:0"
+
+msgid "Ether Classic"
+msgstr "crwdns92940:0crwdne92940:0"
+
+msgid "Ethereum"
+msgstr "crwdns162800:0crwdne162800:0"
+
+msgid "Even/Odd"
+msgstr "crwdns92986:0crwdne92986:0"
+
+msgid "Even/Odd contracts will be refunded at the purchase price if the contract doesn't end within 5 minutes."
+msgstr "crwdns92988:0crwdne92988:0"
+
+msgid "Example of a blurry document"
+msgstr "crwdns162802:0crwdne162802:0"
+
+msgid "Example of a cut-off document"
+msgstr "crwdns162804:0crwdne162804:0"
+
+msgid "Example of a document with glare"
+msgstr "crwdns162806:0crwdne162806:0"
+
+msgid "Exclude time cannot be for more than 5 years."
+msgstr "crwdns93026:0crwdne93026:0"
+
+msgid "Exclude time cannot be less than 6 months."
+msgstr "crwdns93028:0crwdne93028:0"
+
+msgid "Excluded from the website until"
+msgstr "crwdns93030:0crwdne93030:0"
+
+msgid "Exit Spot"
+msgstr "crwdns93040:0crwdne93040:0"
+
+msgid "Exit spot"
+msgstr "crwdns93046:0crwdne93046:0"
+
+msgid "Exit spot time"
+msgstr "crwdns116968:0crwdne116968:0"
+
+msgid "Exit time"
+msgstr "crwdns118320:0crwdne118320:0"
+
+msgid "Expiry date is required for %1."
+msgstr "crwdns93156:0%1crwdne93156:0"
+
+msgid "Explanation"
+msgstr "crwdns93160:0crwdne93160:0"
+
+msgid "Face forward and make sure your eyes are clearly visible"
+msgstr "crwdns162808:0crwdne162808:0"
+
+msgid "Face photo page"
+msgstr "crwdns162810:0crwdne162810:0"
+
+msgid "Failed"
+msgstr "crwdns93204:0crwdne93204:0"
+
+msgid "Feb"
+msgstr "crwdns93238:0crwdne93238:0"
+
+msgid "February"
+msgstr "crwdns93240:0crwdne93240:0"
+
+msgid "Fiat"
+msgstr "crwdns93250:0crwdne93250:0"
+
+msgid "File (%1) size exceeds the permitted limit. Maximum allowed file size: %2"
+msgstr "crwdns93258:0%1crwdnd93258:0%2crwdne93258:0"
+
+msgid "File not uploaded."
+msgstr "crwdns162812:0crwdne162812:0"
+
+msgid "File size exceeded."
+msgstr "crwdns162814:0crwdne162814:0"
+
+msgid "File type not supported"
+msgstr "crwdns162816:0crwdne162816:0"
+
+msgid "Final price"
+msgstr "crwdns93266:0crwdne93266:0"
+
+msgid "Financial"
+msgstr "crwdns123136:0crwdne123136:0"
+
+msgid "Financial Account"
+msgstr "crwdns93270:0crwdne93270:0"
+
+msgid "Financial STP"
+msgstr "crwdns123138:0crwdne123138:0"
+
+msgid "Finish"
+msgstr "crwdns93300:0crwdne93300:0"
+
+msgid "First line of home address"
+msgstr "crwdns93306:0crwdne93306:0"
+
+msgid "Follow these steps to recover camera access:"
+msgstr "crwdns162818:0crwdne162818:0"
+
+msgid "Forex"
+msgstr "crwdns93394:0crwdne93394:0"
+
+msgid "Fr"
+msgstr "crwdns93416:0crwdne93416:0"
+
+msgid "Friday"
+msgstr "crwdns93428:0crwdne93428:0"
+
+msgid "Fridays"
+msgstr "crwdns93430:0crwdne93430:0"
+
+msgid "From account: "
+msgstr "crwdns93436:0crwdne93436:0"
+
+msgid "Front Side"
+msgstr "crwdns93440:0crwdne93440:0"
+
+msgid "Front and back"
+msgstr "crwdns162820:0crwdne162820:0"
+
+msgid "Gaming"
+msgstr "crwdns93480:0crwdne93480:0"
+
+msgid "Gaming Account"
+msgstr "crwdns162822:0crwdne162822:0"
+
+msgid "Get %1"
+msgstr "crwdns93502:0%1crwdne93502:0"
+
+msgid "Get link via SMS"
+msgstr "crwdns162824:0crwdne162824:0"
+
+msgid "Get secure link"
+msgstr "crwdns162826:0crwdne162826:0"
+
+msgid "Get your secure link"
+msgstr "crwdns162828:0crwdne162828:0"
+
+msgid "Glare detected"
+msgstr "crwdns162830:0crwdne162830:0"
+
+msgid "Go To Reports"
+msgstr "crwdns162832:0crwdne162832:0"
+
+msgid "Go back"
+msgstr "crwdns162834:0crwdne162834:0"
+
+msgid "Go to statement"
+msgstr "crwdns93546:0crwdne93546:0"
+
+msgid "Goes Outside"
+msgstr "crwdns93556:0crwdne93556:0"
+
+msgid "Grant access to your camera from your browser settings"
+msgstr "crwdns162836:0crwdne162836:0"
+
+msgid "Great, that's everything we need"
+msgstr "crwdns162838:0crwdne162838:0"
+
+msgid "Guide"
+msgstr "crwdns93582:0crwdne93582:0"
+
+msgid "Hence, your withdrawable balance is only up to %1%2, subject to your account’s available funds."
+msgstr "crwdns118322:0%1crwdnd118322:0%2crwdne118322:0"
+
+msgid "Here's how to do it:"
+msgstr "crwdns162840:0crwdne162840:0"
+
+msgid "High"
+msgstr "crwdns93620:0crwdne93620:0"
+
+msgid "High Barrier"
+msgstr "crwdns93622:0crwdne93622:0"
+
+msgid "High Tick"
+msgstr "crwdns93624:0crwdne93624:0"
+
+msgid "High Tick/Low Tick contracts have a strict duration of five ticks."
+msgstr "crwdns93626:0crwdne93626:0"
+
+msgid "High barrier"
+msgstr "crwdns93630:0crwdne93630:0"
+
+msgid "High barrier must be higher than low barrier"
+msgstr "crwdns93632:0crwdne93632:0"
+
+msgid "High barrier offset"
+msgstr "crwdns93634:0crwdne93634:0"
+
+msgid "High, Low and Close"
+msgstr "crwdns93640:0crwdne93640:0"
+
+msgid "High-Close"
+msgstr "crwdns93642:0crwdne93642:0"
+
+msgid "High-Low"
+msgstr "crwdns93644:0crwdne93644:0"
+
+msgid "High/Low Ticks"
+msgstr "crwdns93648:0crwdne93648:0"
+
+msgid "Higher"
+msgstr "crwdns93650:0crwdne93650:0"
+
+msgid "Higher or equal"
+msgstr "crwdns93652:0crwdne93652:0"
+
+msgid "Higher/Lower"
+msgstr "crwdns93654:0crwdne93654:0"
+
+msgid "Higher/Lower contracts will be refunded at the purchase price if there are less than 2 ticks between the start and end times."
+msgstr "crwdns93656:0crwdne93656:0"
+
+msgid "Hour"
+msgstr "crwdns93672:0crwdne93672:0"
+
+msgid "How to scan a QR code"
+msgstr "crwdns162842:0crwdne162842:0"
+
+msgid "I want to reapply"
+msgstr "crwdns93762:0crwdne93762:0"
+
+msgid "I'm interested"
+msgstr "crwdns93768:0crwdne93768:0"
+
+msgid "ID number is required for %1."
+msgstr "crwdns93780:0%1crwdne93780:0"
+
+msgid "IDK"
+msgstr "crwdns162844:0crwdne162844:0"
+
+msgid "IP Address"
+msgstr "crwdns93784:0crwdne93784:0"
+
+msgid "Identity card"
+msgstr "crwdns93802:0crwdne93802:0"
+
+msgid "If it doesn’t work, download a QR code scanner from Google Play or the App Store"
+msgstr "crwdns162846:0crwdne162846:0"
+
+msgid "If the <strong>exit spot</strong> is equal to either the <strong>Low barrier</strong> or the <strong>High barrier</strong>, you don't win the payout."
+msgstr "crwdns93826:0crwdne93826:0"
+
+msgid "If the <strong>exit spot</strong> is equal to the <strong>barrier</strong> or the <stronm g>new barrier (if a reset occurs)</stronmg>, you don't win the payout."
+msgstr "crwdns93828:0crwdne93828:0"
+
+msgid "If the <strong>exit spot</strong> is equal to the <strong>barrier</strong>, you don't win the payout."
+msgstr "crwdns93830:0crwdne93830:0"
+
+msgid "If the <strong>last tick</strong> is equal to the average of the ticks, you don't win the payout."
+msgstr "crwdns93834:0crwdne93834:0"
+
+msgid "If you select \"Allow equals\", you win the payout if exit spot is higher than or equal to entry spot for \"Higher\". Similarly, you win the payout if exit spot is lower than or equal to entry spot for \"Lower\"."
+msgstr "crwdns93934:0crwdne93934:0"
+
+msgid "If you select \"Asian Fall\", you will win the payout if the <strong>last tick</strong> is <strong>lower</strong> than the <strong>average</strong> of the ticks."
+msgstr "crwdns93936:0crwdne93936:0"
+
+msgid "If you select \"Asian Rise\", you will win the payout if the <strong>last tick</strong> is <strong>higher</strong> than the <strong>average</strong> of the ticks."
+msgstr "crwdns93938:0crwdne93938:0"
+
+msgid "If you select \"Differs\", you will win the payout if the <strong>last digit</strong> of the last tick is <strong>not the same</strong> as your <strong>prediction</strong>."
+msgstr "crwdns93940:0crwdne93940:0"
+
+msgid "If you select \"Does Not Touch\", you win the payout if the market never touches the <strong>barrier</strong> at any time during the <strong>contract period</strong>."
+msgstr "crwdns93942:0crwdne93942:0"
+
+msgid "If you select \"Ends Between\", you win the payout if the <strong>exit spot</strong> is strictly higher than the <strong>Low barrier</strong> AND strictly lower than the <strong>High barrier</strong>."
+msgstr "crwdns93944:0crwdne93944:0"
+
+msgid "If you select \"Ends Outside\", you win the payout if the <strong>exit spot</strong> is EITHER strictly higher than the <strong>High barrier</strong>, OR strictly lower than the <strong>Low barrier</strong>."
+msgstr "crwdns93946:0crwdne93946:0"
+
+msgid "If you select \"Even\", you will win the payout if the <strong>last digit</strong> of the last tick is an <strong>even number (i.e., 2, 4, 6, 8, or 0).</strong>"
+msgstr "crwdns93948:0crwdne93948:0"
+
+msgid "If you select \"Falls\", you win the payout if the <strong>exit spot</strong> is strictly lower than the <strong>entry spot</strong>."
+msgstr "crwdns93950:0crwdne93950:0"
+
+msgid "If you select \"Goes Outside\", you win the payout if the market touches either the <strong>High barrier</strong> or the <strong>Low barrier</strong> at any time during the <strong>contract period</strong>."
+msgstr "crwdns93952:0crwdne93952:0"
+
+msgid "If you select \"Higher\", you win the payout if the <strong>exit spot</strong> is strictly higher than the <strong>barrier</strong>."
+msgstr "crwdns93956:0crwdne93956:0"
+
+msgid "If you select \"Higher\", you win the payout if the <strong>exit spot</strong> is strictly higher than the <strong>entry spot</strong>."
+msgstr "crwdns93958:0crwdne93958:0"
+
+msgid "If you select \"Lower\", you win the payout if the <strong>exit spot</strong> is strictly lower than the <strong>barrier</strong>."
+msgstr "crwdns93960:0crwdne93960:0"
+
+msgid "If you select \"Lower\", you win the payout if the <strong>exit spot</strong> is strictly lower than the <strong>entry spot</strong>."
+msgstr "crwdns93962:0crwdne93962:0"
+
+msgid "If you select \"Matches\", you will win the payout if the <strong>last digit</strong> of the last tick is the <strong>same</strong> as your <strong>prediction.</strong>"
+msgstr "crwdns93964:0crwdne93964:0"
+
+msgid "If you select \"Odd\", you will win the payout if the <strong>last digit</strong> of the last tick is an <strong>odd number (i.e., 1, 3, 5, 7, or 9).</strong>"
+msgstr "crwdns93966:0crwdne93966:0"
+
+msgid "If you select \"Over\", you will win the payout if the <strong>last digit</strong> of the last tick is <strong>greater than your prediction.</strong>"
+msgstr "crwdns93968:0crwdne93968:0"
+
+msgid "If you select \"Reset-Call\", you win the payout if the exit spot is strictly higher than either the entry spot or the spot at reset time."
+msgstr "crwdns93970:0crwdne93970:0"
+
+msgid "If you select \"Reset-Put\", you win the payout if the exit spot is strictly lower than either the entry spot or the spot at reset time."
+msgstr "crwdns93972:0crwdne93972:0"
+
+msgid "If you select \"Rises\", you win the payout if the <strong>exit spot</strong> is strictly higher than the <strong>entry spot</strong>."
+msgstr "crwdns93974:0crwdne93974:0"
+
+msgid "If you select \"Stays Between\", you win the payout if the market stays between (does not touch) either the <strong>High barrier</strong> or the <strong>Low barrier</strong> at any time during the <strong>contract period</strong>."
+msgstr "crwdns93976:0crwdne93976:0"
+
+msgid "If you select \"Touches\", you win the payout if the market touches the <strong>barrier</strong> at any time during the <strong>contract period</strong>."
+msgstr "crwdns93978:0crwdne93978:0"
+
+msgid "If you select \"Under\", you will win the payout if the <strong>last digit</strong> of the last tick is <strong>less than your prediction.</strong>"
+msgstr "crwdns93980:0crwdne93980:0"
+
+msgid "If you select \"falls\", you win the payout if the market price is lower than the <strong>entry spot</strong>."
+msgstr "crwdns93982:0crwdne93982:0"
+
+msgid "If you select \"falls\", you win the payout if the market price is lower than the entry spot."
+msgstr "crwdns93984:0crwdne93984:0"
+
+msgid "If you select \"rises\", you win the payout if the market price is higher than the <strong>entry spot</strong>."
+msgstr "crwdns93986:0crwdne93986:0"
+
+msgid "If you select \"rises\", you win the payout if the market price is higher than the entry spot."
+msgstr "crwdns93988:0crwdne93988:0"
+
+msgid "If you select %1\"High Tick\"%2, you win the payout if the selected tick is the %1highest among the next five ticks%2."
+msgstr "crwdns93990:0%1crwdnd93990:0%2crwdnd93990:0%1hicrwdnd93990:0%2crwdne93990:0"
+
+msgid "If you select %1\"Low Tick\"%2, you win the payout if the selected tick is the %1lowest among the next five ticks%2."
+msgstr "crwdns93992:0%1crwdnd93992:0%2crwdnd93992:0%1locrwdnd93992:0%2crwdne93992:0"
+
+msgid "If you select %1\"Only Downs\"%2, you win the payout if consecutive ticks fall successively after the %1entry spot%2.%3No payout if any tick rises or is equal to any of the previous ticks."
+msgstr "crwdns93994:0%1crwdnd93994:0%2crwdnd93994:0%1ecrwdnd93994:0%2crwdnd93994:0%3crwdne93994:0"
+
+msgid "If you select %1\"Only Ups\"%2, you win the payout if consecutive ticks rise successively after the %1entry spot%2.%3No payout if any tick falls or is equal to any of the previous ticks."
+msgstr "crwdns93996:0%1crwdnd93996:0%2crwdnd93996:0%1ecrwdnd93996:0%2crwdnd93996:0%3crwdne93996:0"
+
+msgid "If you select a <strong>start time</strong> in the future, the <strong>start time</strong> is that which is selected and the <strong>entry spot</strong> is the price in effect at that time."
+msgstr "crwdns93998:0crwdne93998:0"
+
+msgid "If you select a <strong>start time</strong> of \"Now\", the <strong>end time</strong> is the selected number of minutes/hours after the <strong>start time</strong> (if less than one day in duration), or at the end of the trading day (if one day or more in duration)."
+msgstr "crwdns94000:0crwdne94000:0"
+
+msgid "If you select a specific <strong>end time</strong>, the <strong>end time</strong> is the selected time."
+msgstr "crwdns94002:0crwdne94002:0"
+
+msgid "In the EU, financial binary options are only available to professional investors."
+msgstr "crwdns94100:0crwdne94100:0"
+
+msgid "In/Out"
+msgstr "crwdns94138:0crwdne94138:0"
+
+msgid "Indicates required field"
+msgstr "crwdns94158:0crwdne94158:0"
+
+msgid "Indicative"
+msgstr "crwdns94162:0crwdne94162:0"
+
+msgid "Insufficient balance."
+msgstr "crwdns94184:0crwdne94184:0"
+
+msgid "Invalid app id"
+msgstr "crwdns116970:0crwdne116970:0"
+
+msgid "Invalid document format."
+msgstr "crwdns94230:0crwdne94230:0"
+
+msgid "Invalid email address."
+msgstr "crwdns94232:0crwdne94232:0"
+
+msgid "Invalid verification code."
+msgstr "crwdns94234:0crwdne94234:0"
+
+msgid "Investment"
+msgstr "crwdns94244:0crwdne94244:0"
+
+msgid "It may be disconnected. <fallback>Try using your phone instead</fallback>."
+msgstr "crwdns162848:0crwdne162848:0"
+
+msgid "It may take a few minutes to arrive"
+msgstr "crwdns162850:0crwdne162850:0"
+
+msgid "It must be an official photo ID"
+msgstr "crwdns162852:0crwdne162852:0"
+
+msgid "It will only take a couple of minutes."
+msgstr "crwdns162854:0crwdne162854:0"
+
+msgid "It’ll take longer to verify you if we can’t read it"
+msgstr "crwdns162856:0crwdne162856:0"
+
+msgid "Jan"
+msgstr "crwdns94312:0crwdne94312:0"
+
+msgid "January"
+msgstr "crwdns94314:0crwdne94314:0"
+
+msgid "Jul"
+msgstr "crwdns94326:0crwdne94326:0"
+
+msgid "July"
+msgstr "crwdns94328:0crwdne94328:0"
+
+msgid "Jun"
+msgstr "crwdns94330:0crwdne94330:0"
+
+msgid "June"
+msgstr "crwdns94332:0crwdne94332:0"
+
+msgid "Jurisdiction"
+msgstr "crwdns94334:0crwdne94334:0"
+
+msgid "Keep this window open while using your mobile"
+msgstr "crwdns162858:0crwdne162858:0"
+
+msgid "Language settings"
+msgstr "crwdns116972:0crwdne116972:0"
+
+msgid "Last Digit Prediction"
+msgstr "crwdns94418:0crwdne94418:0"
+
+msgid "Last Digit Stats"
+msgstr "crwdns94420:0crwdne94420:0"
+
+msgid "Last Login"
+msgstr "crwdns94422:0crwdne94422:0"
+
+msgid "Last Used"
+msgstr "crwdns94424:0crwdne94424:0"
+
+msgid "Last digit stats for the latest %1 ticks on %2"
+msgstr "crwdns94426:0%1crwdnd94426:0%2crwdne94426:0"
+
+msgid "Linked to your computer"
+msgstr "crwdns162860:0crwdne162860:0"
+
+msgid "Litecoin"
+msgstr "crwdns94534:0crwdne94534:0"
+
+msgid "Loading"
+msgstr "crwdns162862:0crwdne162862:0"
+
+msgid "Loading..."
+msgstr "crwdns162864:0crwdne162864:0"
+
+msgid "Log in"
+msgstr "crwdns94556:0crwdne94556:0"
+
+msgid "Log in here"
+msgstr "crwdns94558:0crwdne94558:0"
+
+msgid "Log out"
+msgstr "crwdns94564:0crwdne94564:0"
+
+msgid "Login ID"
+msgstr "crwdns123460:0crwdne123460:0"
+
+msgid "Login at:"
+msgstr "crwdns162866:0crwdne162866:0"
+
+msgid "Lookbacks"
+msgstr "crwdns94576:0crwdne94576:0"
+
+msgid "Looks like you took too long"
+msgstr "crwdns162868:0crwdne162868:0"
+
+msgid "Loss"
+msgstr "crwdns94586:0crwdne94586:0"
+
+msgid "Low"
+msgstr "crwdns94594:0crwdne94594:0"
+
+msgid "Low Barrier"
+msgstr "crwdns94596:0crwdne94596:0"
+
+msgid "Low Tick"
+msgstr "crwdns94598:0crwdne94598:0"
+
+msgid "Low barrier"
+msgstr "crwdns94600:0crwdne94600:0"
+
+msgid "Low barrier offset"
+msgstr "crwdns94602:0crwdne94602:0"
+
+msgid "Lower"
+msgstr "crwdns94606:0crwdne94606:0"
+
+msgid "Lower or equal"
+msgstr "crwdns94608:0crwdne94608:0"
+
+msgid "MT5"
+msgstr "crwdns162870:0crwdne162870:0"
+
+msgid "MT5 withdrawal disabled"
+msgstr "crwdns116974:0crwdne116974:0"
+
+msgid "MT5 withdrawals have been disabled on your account. Please check your email for more details."
+msgstr "crwdns94646:0crwdne94646:0"
+
+msgid "Make sure all of the document is in the photo"
+msgstr "crwdns162872:0crwdne162872:0"
+
+msgid "Make sure details are clear to read, with no blur or glare"
+msgstr "crwdns162874:0crwdne162874:0"
+
+msgid "Make sure everything is clear"
+msgstr "crwdns162876:0crwdne162876:0"
+
+msgid "Make sure full document is visible"
+msgstr "crwdns162878:0crwdne162878:0"
+
+msgid "Make sure your card details are clear to read, with no blur or glare"
+msgstr "crwdns162880:0crwdne162880:0"
+
+msgid "Make sure your device has a working camera"
+msgstr "crwdns162882:0crwdne162882:0"
+
+msgid "Make sure your device's camera works"
+msgstr "crwdns162884:0crwdne162884:0"
+
+msgid "Make sure your license details are clear to read, with no blur or glare"
+msgstr "crwdns162886:0crwdne162886:0"
+
+msgid "Make sure your passport details are clear to read, with no blur or glare"
+msgstr "crwdns162888:0crwdne162888:0"
+
+msgid "Make sure your permit details are clear to read, with no blur or glare"
+msgstr "crwdns162890:0crwdne162890:0"
+
+msgid "Make sure your selfie clearly shows your face"
+msgstr "crwdns162892:0crwdne162892:0"
+
+msgid "Make sure§"
+msgstr "crwdns162894:0crwdne162894:0"
+
+msgid "Mar"
+msgstr "crwdns94736:0crwdne94736:0"
+
+msgid "March"
+msgstr "crwdns94738:0crwdne94738:0"
+
+msgid "Matches/Differs"
+msgstr "crwdns94792:0crwdne94792:0"
+
+msgid "Maximum multiplier of 1000."
+msgstr "crwdns94820:0crwdne94820:0"
+
+msgid "Maximum payout"
+msgstr "crwdns94826:0crwdne94826:0"
+
+msgid "May"
+msgstr "crwdns94830:0crwdne94830:0"
+
+msgid "Menu"
+msgstr "crwdns116976:0crwdne116976:0"
+
+msgid "Minimum of %1 characters required."
+msgstr "crwdns94878:0%1crwdne94878:0"
+
+msgid "Minimum:"
+msgstr "crwdns94890:0crwdne94890:0"
+
+msgid "Minute"
+msgstr "crwdns94898:0crwdne94898:0"
+
+msgid "Mo"
+msgstr "crwdns94906:0crwdne94906:0"
+
+msgid "Monday"
+msgstr "crwdns94912:0crwdne94912:0"
+
+msgid "More information can be found in an email sent to you."
+msgstr "crwdns94938:0crwdne94938:0"
+
+msgid "Move away from direct light"
+msgstr "crwdns162896:0crwdne162896:0"
+
+msgid "Move away from direct light — no glare"
+msgstr "crwdns162898:0crwdne162898:0"
+
+msgid "Multi-Collateral"
+msgstr "crwdns162900:0crwdne162900:0"
+
+msgid "Multiple faces found"
+msgstr "crwdns162902:0crwdne162902:0"
+
+msgid "Multiplier"
+msgstr "crwdns94968:0crwdne94968:0"
+
+msgid "Multiplier Down"
+msgstr "crwdns94970:0crwdne94970:0"
+
+msgid "Multiplier Up"
+msgstr "crwdns94972:0crwdne94972:0"
+
+msgid "Must be under 10MB."
+msgstr "crwdns162904:0crwdne162904:0"
+
+msgid "Name"
+msgstr "crwdns94988:0crwdne94988:0"
+
+msgid "Names and surnames by themselves are easy to guess"
+msgstr "crwdns162906:0crwdne162906:0"
+
+msgid "Net profit"
+msgstr "crwdns95032:0crwdne95032:0"
+
+msgid "Network status"
+msgstr "crwdns95036:0crwdne95036:0"
+
+msgid "Never"
+msgstr "crwdns95038:0crwdne95038:0"
+
+msgid "Never Used"
+msgstr "crwdns95040:0crwdne95040:0"
+
+msgid "New Year's Day"
+msgstr "crwdns95046:0crwdne95046:0"
+
+msgid "New password"
+msgstr "crwdns95066:0crwdne95066:0"
+
+msgid "New token created."
+msgstr "crwdns95072:0crwdne95072:0"
+
+msgid "Next"
+msgstr "crwdns95074:0crwdne95074:0"
+
+msgid "No authentication required"
+msgstr "crwdns95086:0crwdne95086:0"
+
+msgid "No currency assigned"
+msgstr "crwdns118326:0crwdne118326:0"
+
+msgid "No currency selected"
+msgstr "crwdns118328:0crwdne118328:0"
+
+msgid "No document detected"
+msgstr "crwdns162908:0crwdne162908:0"
+
+msgid "No face found"
+msgstr "crwdns162910:0crwdne162910:0"
+
+msgid "No need for symbols, digits, or uppercase letters"
+msgstr "crwdns162912:0crwdne162912:0"
+
+msgid "No notifications"
+msgstr "crwdns116978:0crwdne116978:0"
+
+msgid "No thanks"
+msgstr "crwdns95118:0crwdne95118:0"
+
+msgid "Not"
+msgstr "crwdns95126:0crwdne95126:0"
+
+msgid "Not announced for this currency."
+msgstr "crwdns95128:0crwdne95128:0"
+
+msgid "Note"
+msgstr "crwdns95142:0crwdne95142:0"
+
+msgid "Note:"
+msgstr "crwdns95144:0crwdne95144:0"
+
+msgid "Note: You are limited to one fiat currency account. The currency of your fiat account can be changed before you deposit into your fiat account for the first time or create an MT5 account. You may also open one account for each supported cryptocurrency."
+msgstr "crwdns95154:0crwdne95154:0"
+
+msgid "Notifications"
+msgstr "crwdns116980:0crwdne116980:0"
+
+msgid "Nov"
+msgstr "crwdns95168:0crwdne95168:0"
+
+msgid "November"
+msgstr "crwdns95170:0crwdne95170:0"
+
+msgid "Now"
+msgstr "crwdns95174:0crwdne95174:0"
+
+msgid "Number of ticks:"
+msgstr "crwdns95180:0crwdne95180:0"
+
+msgid "OAuth App ID"
+msgstr "crwdns95188:0crwdne95188:0"
+
+msgid "Oct"
+msgstr "crwdns95196:0crwdne95196:0"
+
+msgid "October"
+msgstr "crwdns95198:0crwdne95198:0"
+
+msgid "Offline"
+msgstr "crwdns95202:0crwdne95202:0"
+
+msgid "Once you've finished we'll take you to the next step"
+msgstr "crwdns162914:0crwdne162914:0"
+
+msgid "Online"
+msgstr "crwdns95232:0crwdne95232:0"
+
+msgid "Only %1 are allowed."
+msgstr "crwdns95244:0%1crwdne95244:0"
+
+msgid "Only Downs"
+msgstr "crwdns95246:0crwdne95246:0"
+
+msgid "Only Ups"
+msgstr "crwdns95252:0crwdne95252:0"
+
+msgid "Only letters, numbers, space, and hyphen are allowed."
+msgstr "crwdns95258:0crwdne95258:0"
+
+msgid "Only letters, numbers, space, and these special characters are allowed: %1"
+msgstr "crwdns95260:0%1crwdne95260:0"
+
+msgid "Only letters, numbers, space, hyphen, period, and apostrophe are allowed."
+msgstr "crwdns95262:0crwdne95262:0"
+
+msgid "Only letters, numbers, space, hyphen, period, comma, and apostrophe are allowed."
+msgstr "crwdns95264:0crwdne95264:0"
+
+msgid "Only letters, numbers, space, underscore, and hyphen are allowed for ID number (%1)."
+msgstr "crwdns95266:0%1crwdne95266:0"
+
+msgid "Only letters, space, hyphen, period, and apostrophe are allowed."
+msgstr "crwdns95268:0crwdne95268:0"
+
+msgid "Only your face can be in the selfie"
+msgstr "crwdns162916:0crwdne162916:0"
+
+msgid "Oops... Page Not Available"
+msgstr "crwdns95272:0crwdne95272:0"
+
+msgid "Open a Financial Account"
+msgstr "crwdns95282:0crwdne95282:0"
+
+msgid "Open a Real Account"
+msgstr "crwdns95284:0crwdne95284:0"
+
+msgid "Open a free account"
+msgstr "crwdns95286:0crwdne95286:0"
+
+msgid "Open positions"
+msgstr "crwdns95296:0crwdne95296:0"
+
+msgid "Open the link and complete the tasks"
+msgstr "crwdns162918:0crwdne162918:0"
+
+msgid "Open the link on your mobile"
+msgstr "crwdns162920:0crwdne162920:0"
+
+msgid "Open your new bank account"
+msgstr "crwdns162922:0crwdne162922:0"
+
+msgid "Opens"
+msgstr "crwdns95310:0crwdne95310:0"
+
+msgid "Options trading can become a real addiction, as can any other activity pushed to its limits. To avoid the danger of such an addiction, we provide a reality-check that gives you a summary of your trades and accounts on a regular basis."
+msgstr "crwdns123466:0crwdne123466:0"
+
+msgid "Over/Under"
+msgstr "crwdns95410:0crwdne95410:0"
+
+msgid "Over/Under contracts will be refunded at the purchase price if the contract doesn't end within 5 minutes."
+msgstr "crwdns95412:0crwdne95412:0"
+
+msgid "PM"
+msgstr "crwdns95428:0crwdne95428:0"
+
+msgid "Passport"
+msgstr "crwdns95456:0crwdne95456:0"
+
+msgid "Passport photo page"
+msgstr "crwdns162924:0crwdne162924:0"
+
+msgid "Password is not strong enough."
+msgstr "crwdns95460:0crwdne95460:0"
+
+msgid "Password should have lower and uppercase English letters with numbers."
+msgstr "crwdns162926:0crwdne162926:0"
+
+msgid "Paxos Standard"
+msgstr "crwdns162928:0crwdne162928:0"
+
+msgid "Pay-out"
+msgstr "crwdns95474:0crwdne95474:0"
+
+msgid "Payment Agent services are not available in your country or in your preferred currency."
+msgstr "crwdns95484:0crwdne95484:0"
+
+msgid "Payments"
+msgstr "crwdns95500:0crwdne95500:0"
+
+msgid "Payout"
+msgstr "crwdns95508:0crwdne95508:0"
+
+msgid "Payout range"
+msgstr "crwdns116982:0crwdne116982:0"
+
+msgid "Pending"
+msgstr "crwdns95514:0crwdne95514:0"
+
+msgid "Percentage"
+msgstr "crwdns95522:0crwdne95522:0"
+
+msgid "Permissions"
+msgstr "crwdns95550:0crwdne95550:0"
+
+msgid "Photo of your document"
+msgstr "crwdns162930:0crwdne162930:0"
+
+msgid "Photo of your face"
+msgstr "crwdns162932:0crwdne162932:0"
+
+msgid "Place of birth"
+msgstr "crwdns95570:0crwdne95570:0"
+
+msgid "Please %1complete your account profile%2 to lift your withdrawal and trading limits."
+msgstr "crwdns95612:0%1ccrwdnd95612:0%2crwdne95612:0"
+
+msgid "Please %1deposit%2 to your account."
+msgstr "crwdns95616:0%1dcrwdnd95616:0%2crwdne95616:0"
+
+msgid "Please %1log in%2 or %3sign up%4 to view this page."
+msgstr "crwdns95618:0%1locrwdnd95618:0%2crwdnd95618:0%3scrwdnd95618:0%4crwdne95618:0"
+
+msgid "Please accept the terms and conditions."
+msgstr "crwdns95620:0crwdne95620:0"
+
+msgid "Please check your email for further instructions."
+msgstr "crwdns95624:0crwdne95624:0"
+
+msgid "Please check your email for the password reset link."
+msgstr "crwdns95626:0crwdne95626:0"
+
+msgid "Please choose a currency"
+msgstr "crwdns95634:0crwdne95634:0"
+
+msgid "Please complete the %1Real Account form%2 to verify your age as required by the %3UK Gambling%4 Commission (UKGC)."
+msgstr "crwdns95636:0%1crwdnd95636:0%2crwdnd95636:0%3crwdnd95636:0%4crwdne95636:0"
+
+msgid "Please complete the %1financial assessment form%2 to lift your withdrawal and trading limits."
+msgstr "crwdns95638:0%1fcrwdnd95638:0%2crwdne95638:0"
+
+msgid "Please complete your Personal Details before you proceed."
+msgstr "crwdns116986:0crwdne116986:0"
+
+msgid "Please confirm that all the information above is true and complete."
+msgstr "crwdns95646:0crwdne95646:0"
+
+msgid "Please confirm that you are not a politically exposed person."
+msgstr "crwdns95648:0crwdne95648:0"
+
+msgid "Please ensure that you have the Telegram app installed on your device."
+msgstr "crwdns95656:0crwdne95656:0"
+
+msgid "Please enter a valid Login ID."
+msgstr "crwdns95658:0crwdne95658:0"
+
+msgid "Please enter a valid phone number (e.g. +15417541234)."
+msgstr "crwdns162934:0crwdne162934:0"
+
+msgid "Please note that the selected currency is allowed for limited accounts only."
+msgstr "crwdns118332:0crwdne118332:0"
+
+msgid "Please reapply once the required criteria has been fulfilled."
+msgstr "crwdns95688:0crwdne95688:0"
+
+msgid "Please reload the page"
+msgstr "crwdns95692:0crwdne95692:0"
+
+msgid "Please select"
+msgstr "crwdns95698:0crwdne95698:0"
+
+msgid "Please select a country"
+msgstr "crwdns95700:0crwdne95700:0"
+
+msgid "Please select a reason."
+msgstr "crwdns95702:0crwdne95702:0"
+
+msgid "Please select a valid time."
+msgstr "crwdns95704:0crwdne95704:0"
+
+msgid "Please select at least one scope"
+msgstr "crwdns95706:0crwdne95706:0"
+
+msgid "Please select the checkbox."
+msgstr "crwdns95708:0crwdne95708:0"
+
+msgid "Please select the currency for this account:"
+msgstr "crwdns95712:0crwdne95712:0"
+
+msgid "Please set the currency of your account."
+msgstr "crwdns123140:0crwdne123140:0"
+
+msgid "Please set your %130-day turnover limit%2 to remove deposit limits."
+msgstr "crwdns95722:0%13crwdnd95722:0%2crwdne95722:0"
+
+msgid "Please specify the reasons for closing your accounts"
+msgstr "crwdns95724:0crwdne95724:0"
+
+msgid "Please specify your preferred interval reality check in minutes:"
+msgstr "crwdns162936:0crwdne162936:0"
+
+msgid "Please submit your proof of address."
+msgstr "crwdns116990:0crwdne116990:0"
+
+msgid "Please submit your proof of identity."
+msgstr "crwdns116992:0crwdne116992:0"
+
+msgid "Please try again"
+msgstr "crwdns162938:0crwdne162938:0"
+
+msgid "Point your phone’s camera at the QR code"
+msgstr "crwdns162940:0crwdne162940:0"
+
+msgid "Postal Code/ZIP"
+msgstr "crwdns95752:0crwdne95752:0"
+
+msgid "Potential Payout"
+msgstr "crwdns95758:0crwdne95758:0"
+
+msgid "Potential Profit"
+msgstr "crwdns95760:0crwdne95760:0"
+
+msgid "Potential payout"
+msgstr "crwdns116994:0crwdne116994:0"
+
+msgid "Potential profit"
+msgstr "crwdns123470:0crwdne123470:0"
+
+msgid "Potential profit/loss"
+msgstr "crwdns116996:0crwdne116996:0"
+
+msgid "Predict the direction<br />and purchase"
+msgstr "crwdns95818:0crwdne95818:0"
+
+msgid "Predictable substitutions like '@' instead of 'a' don't help very much"
+msgstr "crwdns162942:0crwdne162942:0"
+
+msgid "Previous"
+msgstr "crwdns95844:0crwdne95844:0"
+
+msgid "Profit"
+msgstr "crwdns95908:0crwdne95908:0"
+
+msgid "Profit / Loss"
+msgstr "crwdns123472:0crwdne123472:0"
+
+msgid "Profit table"
+msgstr "crwdns116998:0crwdne116998:0"
+
+msgid "Profit/Loss"
+msgstr "crwdns95916:0crwdne95916:0"
+
+msgid "Profit/loss"
+msgstr "crwdns117000:0crwdne117000:0"
+
+msgid "Proof of address"
+msgstr "crwdns95920:0crwdne95920:0"
+
+msgid "Proof of address expired"
+msgstr "crwdns117002:0crwdne117002:0"
+
+msgid "Proof of address required"
+msgstr "crwdns117004:0crwdne117004:0"
+
+msgid "Proof of identity"
+msgstr "crwdns95926:0crwdne95926:0"
+
+msgid "Proof of identity expired"
+msgstr "crwdns117006:0crwdne117006:0"
+
+msgid "Proof of identity required"
+msgstr "crwdns117008:0crwdne117008:0"
+
+msgid "Provide the whole document page for best results"
+msgstr "crwdns162944:0crwdne162944:0"
+
+msgid "Purchase"
+msgstr "crwdns95976:0crwdne95976:0"
+
+msgid "Purchase Price"
+msgstr "crwdns95980:0crwdne95980:0"
+
+msgid "Purchase Time"
+msgstr "crwdns95982:0crwdne95982:0"
+
+msgid "Purchase price"
+msgstr "crwdns117010:0crwdne117010:0"
+
+msgid "Purchase request sent"
+msgstr "crwdns95984:0crwdne95984:0"
+
+msgid "Purchase time"
+msgstr "crwdns117012:0crwdne117012:0"
+
+msgid "Put Spread"
+msgstr "crwdns95988:0crwdne95988:0"
+
+msgid "Read"
+msgstr "crwdns96032:0crwdne96032:0"
+
+msgid "Ready to trade?"
+msgstr "crwdns96044:0crwdne96044:0"
+
+msgid "Real"
+msgstr "crwdns96046:0crwdne96046:0"
+
+msgid "Real Account"
+msgstr "crwdns96048:0crwdne96048:0"
+
+msgid "Real Financial"
+msgstr "crwdns123142:0crwdne123142:0"
+
+msgid "Real Financial STP"
+msgstr "crwdns123144:0crwdne123144:0"
+
+msgid "Real Synthetic"
+msgstr "crwdns123146:0crwdne123146:0"
+
+msgid "Real-Money Account"
+msgstr "crwdns96062:0crwdne96062:0"
+
+msgid "Real-Money Accounts"
+msgstr "crwdns96064:0crwdne96064:0"
+
+msgid "Reality Check"
+msgstr "crwdns123474:0crwdne123474:0"
+
+msgid "Recent years are easy to guess"
+msgstr "crwdns162946:0crwdne162946:0"
+
+msgid "Recover camera access to continue face verification"
+msgstr "crwdns162948:0crwdne162948:0"
+
+msgid "Recovery"
+msgstr "crwdns162950:0crwdne162950:0"
+
+msgid "Redo"
+msgstr "crwdns162952:0crwdne162952:0"
+
+msgid "Ref."
+msgstr "crwdns96100:0crwdne96100:0"
+
+msgid "Reference ID"
+msgstr "crwdns96110:0crwdne96110:0"
+
+msgid "Refresh"
+msgstr "crwdns162954:0crwdne162954:0"
+
+msgid "Refresh this page to restart the identity verification process"
+msgstr "crwdns162956:0crwdne162956:0"
+
+msgid "Remaining time"
+msgstr "crwdns117014:0crwdne117014:0"
+
+msgid "Remember to press stop when you're done. <fallback>Redo video actions</fallback>"
+msgstr "crwdns162958:0crwdne162958:0"
+
+msgid "Remove deposit limits"
+msgstr "crwdns117016:0crwdne117016:0"
+
+msgid "Remove your glasses, if necessary"
+msgstr "crwdns162960:0crwdne162960:0"
+
+msgid "Repeats like \"aaa\" are easy to guess"
+msgstr "crwdns162962:0crwdne162962:0"
+
+msgid "Repeats like \"abcabcabc\" are only slightly harder to guess than \"abc\""
+msgstr "crwdns162964:0crwdne162964:0"
+
+msgid "Reports"
+msgstr "crwdns117018:0crwdne117018:0"
+
+msgid "Requires your browser's web storage to be enabled in order to function properly. Please enable it or exit private browsing mode."
+msgstr "crwdns117020:0crwdne117020:0"
+
+msgid "Resale not offered"
+msgstr "crwdns96186:0crwdne96186:0"
+
+msgid "Resend link"
+msgstr "crwdns162966:0crwdne162966:0"
+
+msgid "Reset Barrier"
+msgstr "crwdns96194:0crwdne96194:0"
+
+msgid "Reset Call"
+msgstr "crwdns96196:0crwdne96196:0"
+
+msgid "Reset Call/Reset Put"
+msgstr "crwdns96198:0crwdne96198:0"
+
+msgid "Reset Password"
+msgstr "crwdns96202:0crwdne96202:0"
+
+msgid "Reset Put"
+msgstr "crwdns96204:0crwdne96204:0"
+
+msgid "Reset Time"
+msgstr "crwdns96206:0crwdne96206:0"
+
+msgid "Reset barrier"
+msgstr "crwdns117022:0crwdne117022:0"
+
+msgid "Reset the balance of your virtual account to %1 anytime."
+msgstr "crwdns162968:0%1crwdne162968:0"
+
+msgid "Reset time"
+msgstr "crwdns117024:0crwdne117024:0"
+
+msgid "Reset to original settings"
+msgstr "crwdns96210:0crwdne96210:0"
+
+msgid "Residence permit"
+msgstr "crwdns162970:0crwdne162970:0"
+
+msgid "Restart process on a different device"
+msgstr "crwdns162972:0crwdne162972:0"
+
+msgid "Restart the process on the latest version of Google Chrome"
+msgstr "crwdns162974:0crwdne162974:0"
+
+msgid "Restart the process on the latest version of Safari"
+msgstr "crwdns162976:0crwdne162976:0"
+
+msgid "Return"
+msgstr "crwdns96234:0crwdne96234:0"
+
+msgid "Reverse Side"
+msgstr "crwdns96244:0crwdne96244:0"
+
+msgid "Reversed words aren't much harder to guess"
+msgstr "crwdns162978:0crwdne162978:0"
+
+msgid "Revoke access"
+msgstr "crwdns96260:0crwdne96260:0"
+
+msgid "Rise/Fall"
+msgstr "crwdns96270:0crwdne96270:0"
+
+msgid "Rise/Fall contracts will be refunded if:"
+msgstr "crwdns96272:0crwdne96272:0"
+
+msgid "STASIS Euro"
+msgstr "crwdns162980:0crwdne162980:0"
+
+msgid "Sa"
+msgstr "crwdns96308:0crwdne96308:0"
+
+msgid "Sale Date"
+msgstr "crwdns96312:0crwdne96312:0"
+
+msgid "Sale Price"
+msgstr "crwdns96314:0crwdne96314:0"
+
+msgid "Saturday"
+msgstr "crwdns96318:0crwdne96318:0"
+
+msgid "Scan QR code"
+msgstr "crwdns162982:0crwdne162982:0"
+
+msgid "Scan the QR code with your phone"
+msgstr "crwdns162984:0crwdne162984:0"
+
+msgid "Scans and photocopies are not accepted"
+msgstr "crwdns162986:0crwdne162986:0"
+
+msgid "Scopes"
+msgstr "crwdns96336:0crwdne96336:0"
+
+msgid "Search for country"
+msgstr "crwdns162988:0crwdne162988:0"
+
+msgid "Search..."
+msgstr "crwdns96342:0crwdne96342:0"
+
+msgid "Select Asset"
+msgstr "crwdns96372:0crwdne96372:0"
+
+msgid "Select Trade Type"
+msgstr "crwdns96374:0crwdne96374:0"
+
+msgid "Select a %{country} document"
+msgstr "crwdns162990:0%{country}crwdne162990:0"
+
+msgid "Select country"
+msgstr "crwdns162992:0crwdne162992:0"
+
+msgid "Select currency"
+msgstr "crwdns118334:0crwdne118334:0"
+
+msgid "Select date"
+msgstr "crwdns96378:0crwdne96378:0"
+
+msgid "Select issuing country"
+msgstr "crwdns162994:0crwdne162994:0"
+
+msgid "Select market:"
+msgstr "crwdns96380:0crwdne96380:0"
+
+msgid "Select payment agent"
+msgstr "crwdns96382:0crwdne96382:0"
+
+msgid "Select your market and underlying asset"
+msgstr "crwdns96384:0crwdne96384:0"
+
+msgid "Select your trade type"
+msgstr "crwdns96386:0crwdne96386:0"
+
+msgid "Selected tick"
+msgstr "crwdns117026:0crwdne117026:0"
+
+msgid "Self-exclusion"
+msgstr "crwdns117028:0crwdne117028:0"
+
+msgid "Selfie"
+msgstr "crwdns162996:0crwdne162996:0"
+
+msgid "Selfie uploaded"
+msgstr "crwdns162998:0crwdne162998:0"
+
+msgid "Sell"
+msgstr "crwdns96404:0crwdne96404:0"
+
+msgid "Sell at market"
+msgstr "crwdns96408:0crwdne96408:0"
+
+msgid "Send a secure link to your phone"
+msgstr "crwdns163000:0crwdne163000:0"
+
+msgid "Send link"
+msgstr "crwdns163002:0crwdne163002:0"
+
+msgid "Send this one-time link to your phone"
+msgstr "crwdns163004:0crwdne163004:0"
+
+msgid "Sending"
+msgstr "crwdns163006:0crwdne163006:0"
+
+msgid "Sep"
+msgstr "crwdns96420:0crwdne96420:0"
+
+msgid "September"
+msgstr "crwdns96422:0crwdne96422:0"
+
+msgid "Sequences like abc or 6543 are easy to guess"
+msgstr "crwdns163008:0crwdne163008:0"
+
+msgid "Server"
+msgstr "crwdns96424:0crwdne96424:0"
+
+msgid "Session duration limit cannot be more than 6 weeks."
+msgstr "crwdns96428:0crwdne96428:0"
+
+msgid "Session duration:"
+msgstr "crwdns123476:0crwdne123476:0"
+
+msgid "Set account currency"
+msgstr "crwdns117030:0crwdne117030:0"
+
+msgid "Set currency"
+msgstr "crwdns123148:0crwdne123148:0"
+
+msgid "Settles"
+msgstr "crwdns96452:0crwdne96452:0"
+
+msgid "Short keyboard patterns are easy to guess"
+msgstr "crwdns163010:0crwdne163010:0"
+
+msgid "Should be %1"
+msgstr "crwdns96474:0%1crwdne96474:0"
+
+msgid "Should be a valid number."
+msgstr "crwdns96476:0crwdne96476:0"
+
+msgid "Should be between %1 and %2"
+msgstr "crwdns96478:0%1crwdnd96478:0%2crwdne96478:0"
+
+msgid "Should be less than %1"
+msgstr "crwdns96480:0%1crwdne96480:0"
+
+msgid "Should be more than %1"
+msgstr "crwdns96482:0%1crwdne96482:0"
+
+msgid "Should start with letter or number, and may contain hyphen and underscore."
+msgstr "crwdns96486:0crwdne96486:0"
+
+msgid "Show all details — including the bottom 2 lines"
+msgstr "crwdns163012:0crwdne163012:0"
+
+msgid "Sign out"
+msgstr "crwdns96496:0crwdne96496:0"
+
+msgid "Sign up"
+msgstr "crwdns96498:0crwdne96498:0"
+
+msgid "SmartTrader"
+msgstr "crwdns96532:0crwdne96532:0"
+
+msgid "Something's gone wrong"
+msgstr "crwdns163014:0crwdne163014:0"
+
+msgid "Sorry, account signup is not available in your country."
+msgstr "crwdns96546:0crwdne96546:0"
+
+msgid "Sorry, an error occurred while processing your account."
+msgstr "crwdns96548:0crwdne96548:0"
+
+msgid "Sorry, an error occurred while processing your request."
+msgstr "crwdns96550:0crwdne96550:0"
+
+msgid "Sorry, but binary options trading is not available in your country."
+msgstr "crwdns163016:0crwdne163016:0"
+
+msgid "Sorry, but binary options trading is not available in your financial account."
+msgstr "crwdns96552:0crwdne96552:0"
+
+msgid "Sorry, deposits for this currency are currently disabled."
+msgstr "crwdns118336:0crwdne118336:0"
+
+msgid "Sorry, no mobile phone bills"
+msgstr "crwdns163018:0crwdne163018:0"
+
+msgid "Sorry, options trading isn’t available in the United Kingdom and the Isle of Man."
+msgstr "crwdns168617:0crwdne168617:0"
+
+msgid "Sorry, this feature is available to virtual accounts only."
+msgstr "crwdns96560:0crwdne96560:0"
+
+msgid "Sorry, this feature is not available in your jurisdiction."
+msgstr "crwdns96562:0crwdne96562:0"
+
+msgid "Sorry, withdrawals for this currency are currently disabled."
+msgstr "crwdns118338:0crwdne118338:0"
+
+msgid "Spot"
+msgstr "crwdns96584:0crwdne96584:0"
+
+msgid "Spot time"
+msgstr "crwdns117032:0crwdne117032:0"
+
+msgid "Spot time (GMT)"
+msgstr "crwdns117034:0crwdne117034:0"
+
+msgid "Stake"
+msgstr "crwdns96596:0crwdne96596:0"
+
+msgid "Start time"
+msgstr "crwdns96610:0crwdne96610:0"
+
+msgid "State/Province"
+msgstr "crwdns96616:0crwdne96616:0"
+
+msgid "Statements"
+msgstr "crwdns117036:0crwdne117036:0"
+
+msgid "Status"
+msgstr "crwdns96626:0crwdne96626:0"
+
+msgid "Stays Between"
+msgstr "crwdns96632:0crwdne96632:0"
+
+msgid "Stays Between/Goes Outside"
+msgstr "crwdns96634:0crwdne96634:0"
+
+msgid "Stays Between/Goes Outside Contracts will be refunded at the purchase price if there are less than 2 ticks between the start and end times."
+msgstr "crwdns96636:0crwdne96636:0"
+
+msgid "Step"
+msgstr "crwdns96640:0crwdne96640:0"
+
+msgid "Steps required to continue verification on your mobile"
+msgstr "crwdns163020:0crwdne163020:0"
+
+msgid "Stock Indices"
+msgstr "crwdns118340:0crwdne118340:0"
+
+msgid "Stocks"
+msgstr "crwdns96680:0crwdne96680:0"
+
+msgid "Straight rows of keys are easy to guess"
+msgstr "crwdns163022:0crwdne163022:0"
+
+msgid "Su"
+msgstr "crwdns96716:0crwdne96716:0"
+
+msgid "Submit"
+msgstr "crwdns96732:0crwdne96732:0"
+
+msgid "Submit document"
+msgstr "crwdns163024:0crwdne163024:0"
+
+msgid "Submit identity card (back)"
+msgstr "crwdns163026:0crwdne163026:0"
+
+msgid "Submit identity card (front)"
+msgstr "crwdns163028:0crwdne163028:0"
+
+msgid "Submit license (back)"
+msgstr "crwdns163030:0crwdne163030:0"
+
+msgid "Submit license (front)"
+msgstr "crwdns163032:0crwdne163032:0"
+
+msgid "Submit passport photo page"
+msgstr "crwdns163034:0crwdne163034:0"
+
+msgid "Submit residence permit (back)"
+msgstr "crwdns163036:0crwdne163036:0"
+
+msgid "Submit residence permit (front)"
+msgstr "crwdns163038:0crwdne163038:0"
+
+msgid "Submit verification"
+msgstr "crwdns163040:0crwdne163040:0"
+
+msgid "Submitted"
+msgstr "crwdns96744:0crwdne96744:0"
+
+msgid "Submitting"
+msgstr "crwdns96746:0crwdne96746:0"
+
+msgid "Successful"
+msgstr "crwdns96748:0crwdne96748:0"
+
+msgid "Sunday"
+msgstr "crwdns96764:0crwdne96764:0"
+
+msgid "Synthetic"
+msgstr "crwdns123150:0crwdne123150:0"
+
+msgid "Synthetic Indices"
+msgstr "crwdns96794:0crwdne96794:0"
+
+msgid "Take a photo"
+msgstr "crwdns163042:0crwdne163042:0"
+
+msgid "Take a photo of the back of your card"
+msgstr "crwdns163044:0crwdne163044:0"
+
+msgid "Take a photo of the back of your license"
+msgstr "crwdns163046:0crwdne163046:0"
+
+msgid "Take a photo of the front of your card"
+msgstr "crwdns163048:0crwdne163048:0"
+
+msgid "Take a photo of the front of your license"
+msgstr "crwdns163050:0crwdne163050:0"
+
+msgid "Take a photo of your passport photo page"
+msgstr "crwdns163052:0crwdne163052:0"
+
+msgid "Take a photo using the <fallback>basic camera mode</fallback> instead"
+msgstr "crwdns163054:0crwdne163054:0"
+
+msgid "Take a photo with your phone"
+msgstr "crwdns163056:0crwdne163056:0"
+
+msgid "Take a selfie"
+msgstr "crwdns163058:0crwdne163058:0"
+
+msgid "Take a selfie showing your face"
+msgstr "crwdns163060:0crwdne163060:0"
+
+msgid "Take photo"
+msgstr "crwdns163062:0crwdne163062:0"
+
+msgid "Target"
+msgstr "crwdns96828:0crwdne96828:0"
+
+msgid "Telephone"
+msgstr "crwdns96850:0crwdne96850:0"
+
+msgid "Tether ERC20"
+msgstr "crwdns163064:0crwdne163064:0"
+
+msgid "Tether ERC20 (eUSDT) is a version of Tether that's pegged to USD and is hosted on the Ethereum platform."
+msgstr "crwdns163066:0crwdne163066:0"
+
+msgid "Tether Omni"
+msgstr "crwdns163068:0crwdne163068:0"
+
+msgid "Tether Omni (USDT) is a version of Tether that's pegged to USD and is built on the Bitcoin blockchain."
+msgstr "crwdns163070:0crwdne163070:0"
+
+msgid "Th"
+msgstr "crwdns96888:0crwdne96888:0"
+
+msgid "Thank you"
+msgstr "crwdns163072:0crwdne163072:0"
+
+msgid "Thank you for signing up! Please check your email to complete the registration process."
+msgstr "crwdns96894:0crwdne96894:0"
+
+msgid "Thank you, we'll get back to you within 24 hours"
+msgstr "crwdns96898:0crwdne96898:0"
+
+msgid "The %1 password of account number %2 has been changed."
+msgstr "crwdns96912:0%1crwdnd96912:0%2crwdne96912:0"
+
+msgid "The %1close%2 is the latest tick at or before the %1end time%2. If you selected a specific %1end time,%2 the %1end time%2 is the selected time."
+msgstr "crwdns96922:0%1ccrwdnd96922:0%2crwdnd96922:0%1ecrwdnd96922:0%2crwdnd96922:0%1ecrwdnd96922:0%2crwdnd96922:0%1ecrwdnd96922:0%2crwdne96922:0"
+
+msgid "The %1contract period%2 is the period between the %1first tick%2 (after start time) and the %1end time%2."
+msgstr "crwdns96924:0%1ccrwdnd96924:0%2crwdnd96924:0%1fcrwdnd96924:0%2crwdnd96924:0%1ecrwdnd96924:0%2crwdne96924:0"
+
+msgid "The %1end time%2 is the selected number of minutes/hours after the %1start time%2."
+msgstr "crwdns96926:0%1ecrwdnd96926:0%2crwdnd96926:0%1scrwdnd96926:0%2crwdne96926:0"
+
+msgid "The %1exit spot%2 is the last tick when the contract ends. Contract ends when all ticks rise or fall successively, or when a single tick breaks the predicted pattern."
+msgstr "crwdns96930:0%1ecrwdnd96930:0%2crwdne96930:0"
+
+msgid "The %1high%2 is the highest point ever reached by the market during the contract period."
+msgstr "crwdns96932:0%1hicrwdnd96932:0%2crwdne96932:0"
+
+msgid "The %1low%2 is the lowest point ever reached by the market during the contract period."
+msgstr "crwdns96934:0%1locrwdnd96934:0%2crwdne96934:0"
+
+msgid "The %1start time%2 begins when the contract is processed by our servers."
+msgstr "crwdns96936:0%1scrwdnd96936:0%2crwdne96936:0"
+
+msgid "The %1start time%2 is when the contract has been processed by our servers and the %1entry spot%2 is the %1next tick%2 thereafter."
+msgstr "crwdns117040:0%1scrwdnd117040:0%2crwdnd117040:0%1ecrwdnd117040:0%2crwdnd117040:0%1ncrwdnd117040:0%2crwdne117040:0"
+
+msgid "The <strong>contract period</strong> is the period between the <strong>next tick</strong> after the <strong>start time</strong> and the <strong>end time</strong>."
+msgstr "crwdns96940:0crwdne96940:0"
+
+msgid "The <strong>end time</strong> is the selected number of minutes/hours after the <strong>start time</strong> (if less than one day in duration), or at the end of the trading day (if one day or more in duration)."
+msgstr "crwdns96942:0crwdne96942:0"
+
+msgid "The <strong>end time</strong> is the selected number of minutes/hours after the <strong>start time</strong>."
+msgstr "crwdns96944:0crwdne96944:0"
+
+msgid "The <strong>entry spot</strong> is the first tick after the contract is processed by our servers."
+msgstr "crwdns96946:0crwdne96946:0"
+
+msgid "The <strong>exit spot</strong> is the latest tick at or before the <strong>end time</strong>."
+msgstr "crwdns96948:0crwdne96948:0"
+
+msgid "The <strong>start time</strong> is when the contract is processed by our servers and the <strong>entry spot</strong> is the <strong>next tick</strong> thereafter."
+msgstr "crwdns96952:0crwdne96952:0"
+
+msgid "The <strong>start time</strong> is when the contract is processed by our servers."
+msgstr "crwdns96954:0crwdne96954:0"
+
+msgid "The Average"
+msgstr "crwdns97028:0crwdne97028:0"
+
+msgid "The average is the average of the ticks, including the entry spot and the last tick."
+msgstr "crwdns97438:0crwdne97438:0"
+
+msgid "The contract doesn't end within 5 minutes (for tick duration contracts)"
+msgstr "crwdns97632:0crwdne97632:0"
+
+msgid "The email address provided is already in use. If you forgot your password, please try our <a href=\"%1\">password recovery tool</a> or contact our customer service."
+msgstr "crwdns97646:0%1crwdne97646:0"
+
+msgid "The entry spot is the first tick after the contract is processed by our servers."
+msgstr "crwdns97648:0crwdne97648:0"
+
+msgid "The link only works on mobile devices"
+msgstr "crwdns163074:0crwdne163074:0"
+
+msgid "The maximum number of tokens (%1) has been reached."
+msgstr "crwdns97708:0%1crwdne97708:0"
+
+msgid "The page you requested could not be found. Either it no longer exists or the address is wrong. Please check for any typos."
+msgstr "crwdns97728:0crwdne97728:0"
+
+msgid "The photo should clearly show your document"
+msgstr "crwdns163076:0crwdne163076:0"
+
+msgid "The reason should be between 5 and 250 characters"
+msgstr "crwdns97762:0crwdne97762:0"
+
+msgid "The reset time is %1"
+msgstr "crwdns97770:0%1crwdne97770:0"
+
+msgid "The server <a href=\"%1\">endpoint</a> is: %2"
+msgstr "crwdns97788:0%1crwdnd97788:0%2crwdne97788:0"
+
+msgid "The two passwords that you entered do not match."
+msgstr "crwdns97820:0crwdne97820:0"
+
+msgid "There are less than 2 ticks between the start and end times"
+msgstr "crwdns97838:0crwdne97838:0"
+
+msgid "There was a problem accessing the server during purchase."
+msgstr "crwdns97860:0crwdne97860:0"
+
+msgid "There was a problem accessing the server."
+msgstr "crwdns97862:0crwdne97862:0"
+
+msgid "There was an error"
+msgstr "crwdns97866:0crwdne97866:0"
+
+msgid "There was some invalid character in an input field."
+msgstr "crwdns97868:0crwdne97868:0"
+
+msgid "These are the documents most likely to show your current home address"
+msgstr "crwdns163078:0crwdne163078:0"
+
+msgid "This account is disabled"
+msgstr "crwdns97948:0crwdne97948:0"
+
+msgid "This account is excluded until %1"
+msgstr "crwdns97950:0%1crwdne97950:0"
+
+msgid "This contract is only available on %1DTrader%2."
+msgstr "crwdns123152:0%1crwdnd123152:0%2crwdne123152:0"
+
+msgid "This contract is only available on DTrader.%1%2Go to Dtrader%3 to close or cancel this contract."
+msgstr "crwdns97968:0%1crwdnd97968:0%2Gcrwdnd97968:0%3crwdne97968:0"
+
+msgid "This contract lost"
+msgstr "crwdns97970:0crwdne97970:0"
+
+msgid "This contract type only offers 5 ticks"
+msgstr "crwdns97972:0crwdne97972:0"
+
+msgid "This contract won"
+msgstr "crwdns97974:0crwdne97974:0"
+
+msgid "This feature is not relevant to virtual-money accounts."
+msgstr "crwdns97982:0crwdne97982:0"
+
+msgid "This field is required."
+msgstr "crwdns97986:0crwdne97986:0"
+
+msgid "This is a staging server - For testing purposes only"
+msgstr "crwdns97996:0crwdne97996:0"
+
+msgid "This is a top-10 common password"
+msgstr "crwdns163080:0crwdne163080:0"
+
+msgid "This is a top-100 common password"
+msgstr "crwdns163082:0crwdne163082:0"
+
+msgid "This is a very common password"
+msgstr "crwdns163084:0crwdne163084:0"
+
+msgid "This is an indicative barrier. Actual barrier will be the entry spot plus the barrier offset."
+msgstr "crwdns97998:0crwdne97998:0"
+
+msgid "This is similar to a commonly used password"
+msgstr "crwdns163086:0crwdne163086:0"
+
+msgid "This is your %1 account."
+msgstr "crwdns98010:0%1crwdne98010:0"
+
+msgid "This page is only available to logged out clients."
+msgstr "crwdns98020:0crwdne98020:0"
+
+msgid "This password is on the blacklist"
+msgstr "crwdns163088:0crwdne163088:0"
+
+msgid "Thursday"
+msgstr "crwdns98044:0crwdne98044:0"
+
+msgid "Tick"
+msgstr "crwdns98046:0crwdne98046:0"
+
+msgid "Tick Prediction"
+msgstr "crwdns98048:0crwdne98048:0"
+
+msgid "Ticks"
+msgstr "crwdns98052:0crwdne98052:0"
+
+msgid "Ticks history returned an empty array."
+msgstr "crwdns98054:0crwdne98054:0"
+
+msgid "Time is in the wrong format."
+msgstr "crwdns98058:0crwdne98058:0"
+
+msgid "Time out cannot be in the past."
+msgstr "crwdns98060:0crwdne98060:0"
+
+msgid "Time out cannot be more than 6 weeks."
+msgstr "crwdns98062:0crwdne98062:0"
+
+msgid "Time out must be after today."
+msgstr "crwdns98064:0crwdne98064:0"
+
+msgid "Timed out until"
+msgstr "crwdns98068:0crwdne98068:0"
+
+msgid "Tips"
+msgstr "crwdns163090:0crwdne163090:0"
+
+msgid "Tips to take a good selfie"
+msgstr "crwdns163092:0crwdne163092:0"
+
+msgid "To account: "
+msgstr "crwdns98080:0crwdne98080:0"
+
+msgid "To open a bank account, we will need to verify your identity."
+msgstr "crwdns163094:0crwdne163094:0"
+
+msgid "To smoothly verify you, we need a better photo"
+msgstr "crwdns163096:0crwdne163096:0"
+
+msgid "Today"
+msgstr "crwdns98130:0crwdne98130:0"
+
+msgid "Token"
+msgstr "crwdns98136:0crwdne98136:0"
+
+msgid "Too many failed attempts"
+msgstr "crwdns163098:0crwdne163098:0"
+
+msgid "Top up error"
+msgstr "crwdns98148:0crwdne98148:0"
+
+msgid "Top-up successful"
+msgstr "crwdns98154:0crwdne98154:0"
+
+msgid "Total Cost"
+msgstr "crwdns98160:0crwdne98160:0"
+
+msgid "Total Profit/Loss"
+msgstr "crwdns98164:0crwdne98164:0"
+
+msgid "Total assets"
+msgstr "crwdns117042:0crwdne117042:0"
+
+msgid "Total assets in your Deriv accounts"
+msgstr "crwdns117044:0crwdne117044:0"
+
+msgid "Total profit/loss"
+msgstr "crwdns117046:0crwdne117046:0"
+
+msgid "Touch/No Touch"
+msgstr "crwdns98172:0crwdne98172:0"
+
+msgid "Touch/No Touch contracts will be refunded at the purchase price if there are less than 2 ticks between the start and end times."
+msgstr "crwdns98174:0crwdne98174:0"
+
+msgid "Touches"
+msgstr "crwdns98178:0crwdne98178:0"
+
+msgid "Town/City"
+msgstr "crwdns98184:0crwdne98184:0"
+
+msgid "Trade"
+msgstr "crwdns98192:0crwdne98192:0"
+
+msgid "Trade FX and CFDs on a customisable, easy-to-use trading platform."
+msgstr "crwdns168619:0crwdne168619:0"
+
+msgid "Trade digital options on the world’s markets with SmartTrader, a powerful, user-friendly online trading platform."
+msgstr "crwdns168621:0crwdne168621:0"
+
+msgid "Trade on Deriv MetaTrader 5 (DMT5), the all-in-one FX and CFD trading platform."
+msgstr "crwdns168623:0crwdne168623:0"
+
+msgid "Trade the world's markets with our popular user-friendly platform."
+msgstr "crwdns168625:0crwdne168625:0"
+
+msgid "Trading Information"
+msgstr "crwdns123154:0crwdne123154:0"
+
+msgid "Trading and deposit disabled"
+msgstr "crwdns117048:0crwdne117048:0"
+
+msgid "Trading and deposits have been disabled on your account. Kindly %1contact customer support%2 for assistance."
+msgstr "crwdns123202:0%1ccrwdnd123202:0%2crwdne123202:0"
+
+msgid "Trading contracts for difference (CFDs) on Synthetic Indices may not be suitable for everyone. Please ensure that you fully understand the risks involved, including the possibility of losing all the funds in your MT5 account. Gambling can be addictive – please play responsibly."
+msgstr "crwdns118342:0crwdne118342:0"
+
+msgid "Trading is unavailable at this time."
+msgstr "crwdns98298:0crwdne98298:0"
+
+msgid "Trading statistics report"
+msgstr "crwdns163648:0crwdne163648:0"
+
+msgid "Transaction ID"
+msgstr "crwdns98314:0crwdne98314:0"
+
+msgid "Transaction performed by %1 (App ID: %2)"
+msgstr "crwdns98318:0%1crwdnd98318:0%2crwdne98318:0"
+
+msgid "True USD"
+msgstr "crwdns163102:0crwdne163102:0"
+
+msgid "Try our %1Synthetic Indices%2."
+msgstr "crwdns98380:0%1Scrwdnd98380:0%2crwdne98380:0"
+
+msgid "Try our other markets."
+msgstr "crwdns98382:0crwdne98382:0"
+
+msgid "Try using a JPG or PNG file"
+msgstr "crwdns163104:0crwdne163104:0"
+
+msgid "Try using another file type."
+msgstr "crwdns163106:0crwdne163106:0"
+
+msgid "Tu"
+msgstr "crwdns98384:0crwdne98384:0"
+
+msgid "Tuesday"
+msgstr "crwdns98386:0crwdne98386:0"
+
+msgid "Turnover"
+msgstr "crwdns123478:0crwdne123478:0"
+
+msgid "Type"
+msgstr "crwdns98396:0crwdne98396:0"
+
+msgid "USD Coin"
+msgstr "crwdns163108:0crwdne163108:0"
+
+msgid "USDK"
+msgstr "crwdns163110:0crwdne163110:0"
+
+msgid "Unable to read file %1"
+msgstr "crwdns98450:0%1crwdne98450:0"
+
+msgid "Unavailable"
+msgstr "crwdns163112:0crwdne163112:0"
+
+msgid "Understood"
+msgstr "crwdns98476:0crwdne98476:0"
+
+msgid "Unknown OS"
+msgstr "crwdns98484:0crwdne98484:0"
+
+msgid "Unsupported browser"
+msgstr "crwdns163114:0crwdne163114:0"
+
+msgid "Up to %1 decimal places are allowed."
+msgstr "crwdns98490:0%1crwdne98490:0"
+
+msgid "Up/Down"
+msgstr "crwdns98492:0crwdne98492:0"
+
+msgid "Upcoming Events"
+msgstr "crwdns98494:0crwdne98494:0"
+
+msgid "Upgrade now"
+msgstr "crwdns98504:0crwdne98504:0"
+
+msgid "Upload"
+msgstr "crwdns163116:0crwdne163116:0"
+
+msgid "Upload a selfie from your computer"
+msgstr "crwdns163118:0crwdne163118:0"
+
+msgid "Upload anyway"
+msgstr "crwdns163120:0crwdne163120:0"
+
+msgid "Upload back of card from your computer"
+msgstr "crwdns163122:0crwdne163122:0"
+
+msgid "Upload back of license from your computer"
+msgstr "crwdns163124:0crwdne163124:0"
+
+msgid "Upload front of card from your computer"
+msgstr "crwdns163126:0crwdne163126:0"
+
+msgid "Upload front of license from your computer"
+msgstr "crwdns163128:0crwdne163128:0"
+
+msgid "Upload passport photo page"
+msgstr "crwdns163130:0crwdne163130:0"
+
+msgid "Upload passport photo page from your computer"
+msgstr "crwdns163132:0crwdne163132:0"
+
+msgid "Upload photo"
+msgstr "crwdns163134:0crwdne163134:0"
+
+msgid "Uploads successful"
+msgstr "crwdns163136:0crwdne163136:0"
+
+msgid "Use a few words, avoid common phrases"
+msgstr "crwdns163138:0crwdne163138:0"
+
+msgid "Use a longer keyboard pattern with more turns"
+msgstr "crwdns163140:0crwdne163140:0"
+
+msgid "Verification code is wrong. Please use the link sent to your email."
+msgstr "crwdns98572:0crwdne98572:0"
+
+msgid "Verification complete"
+msgstr "crwdns163142:0crwdne163142:0"
+
+msgid "Verification required"
+msgstr "crwdns123156:0crwdne123156:0"
+
+msgid "Verify Identity"
+msgstr "crwdns163144:0crwdne163144:0"
+
+msgid "Verify Reset Password"
+msgstr "crwdns98574:0crwdne98574:0"
+
+msgid "Verify identity"
+msgstr "crwdns123158:0crwdne123158:0"
+
+msgid "View"
+msgstr "crwdns98590:0crwdne98590:0"
+
+msgid "View chart"
+msgstr "crwdns98594:0crwdne98594:0"
+
+msgid "View from camera"
+msgstr "crwdns163146:0crwdne163146:0"
+
+msgid "Virtual"
+msgstr "crwdns98624:0crwdne98624:0"
+
+msgid "Waiting for contract settlement."
+msgstr "crwdns98644:0crwdne98644:0"
+
+msgid "Waiting for entry tick."
+msgstr "crwdns98646:0crwdne98646:0"
+
+msgid "Waiting for exit tick."
+msgstr "crwdns98648:0crwdne98648:0"
+
+msgid "We"
+msgstr "crwdns98660:0crwdne98660:0"
+
+msgid "We cannot verify you without using your camera"
+msgstr "crwdns163148:0crwdne163148:0"
+
+msgid "We'd love to hear what you think."
+msgstr "crwdns98740:0crwdne98740:0"
+
+msgid "We'll compare it with your document"
+msgstr "crwdns163150:0crwdne163150:0"
+
+msgid "We're looking to improve our products and services, and we want to understand your needs better. We'd like to interview you via phone, to know what you like about us, what you don't like, and where we can do better."
+msgstr "crwdns98748:0crwdne98748:0"
+
+msgid "We're now ready to verify your identity"
+msgstr "crwdns163152:0crwdne163152:0"
+
+msgid "We've sent a secure link to %{number}"
+msgstr "crwdns163154:0%{number}crwdne163154:0"
+
+msgid "Wednesday"
+msgstr "crwdns98774:0crwdne98774:0"
+
+msgid "We’ll update your limits. Click %1Agree and accept%2 to acknowledge that you are fully responsible for your actions, and we are not liable for any addiction or loss."
+msgstr "crwdns163156:0%1crwdnd163156:0%2crwdne163156:0"
+
+msgid "When prompted, you must enable camera access to continue"
+msgstr "crwdns163158:0crwdne163158:0"
+
+msgid "When you click \"OK\" you will be excluded from trading on the site until the selected date."
+msgstr "crwdns98876:0crwdne98876:0"
+
+msgid "Win payout if exit spot is also equal to entry spot."
+msgstr "crwdns98992:0crwdne98992:0"
+
+msgid "Winning the contract"
+msgstr "crwdns99006:0crwdne99006:0"
+
+msgid "Withdraw"
+msgstr "crwdns99026:0crwdne99026:0"
+
+msgid "Withdrawal"
+msgstr "crwdns99032:0crwdne99032:0"
+
+msgid "Withdrawal and trading limits"
+msgstr "crwdns117052:0crwdne117052:0"
+
+msgid "Withdrawal disabled"
+msgstr "crwdns117054:0crwdne117054:0"
+
+msgid "Withdrawals have been disabled on your account. Please check your email for more details."
+msgstr "crwdns99050:0crwdne99050:0"
+
+msgid "Would you like to check your statement first? %1Check Statement%2"
+msgstr "crwdns163160:0%1Ccrwdnd163160:0%2crwdne163160:0"
+
+msgid "Yes"
+msgstr "crwdns99084:0crwdne99084:0"
+
+msgid "Yes I'm sure"
+msgstr "crwdns99086:0crwdne99086:0"
+
+msgid "Yes, I'm sure"
+msgstr "crwdns99088:0crwdne99088:0"
+
+msgid "You are categorised as a professional client."
+msgstr "crwdns99096:0crwdne99096:0"
+
+msgid "You are categorised as a retail client. Apply to be treated as a professional trader."
+msgstr "crwdns99098:0crwdne99098:0"
+
+msgid "You are limited to one fiat account. You can change the currency of your fiat account anytime before you make a first-time deposit or create an MT5 account."
+msgstr "crwdns99104:0crwdne99104:0"
+
+msgid "You are offline"
+msgstr "crwdns117056:0crwdne117056:0"
+
+msgid "You can %1set a new currency%2 before you deposit for the first time or create an MT5 account."
+msgstr "crwdns99114:0%1scrwdnd99114:0%2crwdne99114:0"
+
+msgid "You can close this window without interrupting your trade."
+msgstr "crwdns99116:0crwdne99116:0"
+
+msgid "You can no longer change the currency because you've created an MT5 account."
+msgstr "crwdns99128:0crwdne99128:0"
+
+msgid "You can no longer change the currency because you've made a first-time deposit."
+msgstr "crwdns99130:0crwdne99130:0"
+
+msgid "You can now return to your computer to continue"
+msgstr "crwdns163162:0crwdne163162:0"
+
+msgid "You can top up your demo account with an additional %1 if your balance is %2 or less."
+msgstr "crwdns99138:0%1crwdnd99138:0%2crwdne99138:0"
+
+msgid "You did not change anything."
+msgstr "crwdns99144:0crwdne99144:0"
+
+msgid "You do not need to authenticate your account at this time.%1We will inform you when your account needs to be authenticated."
+msgstr "crwdns99148:0%1crwdne99148:0"
+
+msgid "You have already withdrawn %1%2 in aggregate over the last %3 days."
+msgstr "crwdns118348:0%1crwdnd118348:0%2crwdnd118348:0%3crwdne118348:0"
+
+msgid "You have already withdrawn %1%2."
+msgstr "crwdns118350:0%1crwdnd118350:0%2crwdne118350:0"
+
+msgid "You have insufficient funds in your Binary account, please <a href=\"%1\">add funds</a>."
+msgstr "crwdns99166:0%1crwdne99166:0"
+
+msgid "You have insufficient funds in your MT5 account."
+msgstr "crwdns163164:0crwdne163164:0"
+
+msgid "You have not granted access to any applications."
+msgstr "crwdns99168:0crwdne99168:0"
+
+msgid "You have reached the rate limit of requests per second. Please try later."
+msgstr "crwdns99174:0crwdne99174:0"
+
+msgid "You have reached the withdrawal limit. Please upload your proof of identity and address to lift your withdrawal limit and proceed with your withdrawal."
+msgstr "crwdns163166:0crwdne163166:0"
+
+msgid "You have sold this contract at %1 %2"
+msgstr "crwdns99180:0%1crwdnd99180:0%2crwdne99180:0"
+
+msgid "You have successfully changed your account currency from %1 to %2."
+msgstr "crwdns99182:0%1crwdnd99182:0%2crwdne99182:0"
+
+msgid "You have successfully disabled two-factor authentication for your account."
+msgstr "crwdns99188:0crwdne99188:0"
+
+msgid "You have successfully enabled two-factor authentication for your account."
+msgstr "crwdns99190:0crwdne99190:0"
+
+msgid "You have successfully set your account currency to %1."
+msgstr "crwdns123160:0%1crwdne123160:0"
+
+msgid "You have to register and get App ID before you can use different OAuth server for authentication. For more information refer to OAuth details on https://developers.binary.com/."
+msgstr "crwdns99192:0crwdne99192:0"
+
+msgid "You have yet to receive any notifications"
+msgstr "crwdns117060:0crwdne117060:0"
+
+msgid "You may open one account for each supported cryptocurrency."
+msgstr "crwdns99198:0crwdne99198:0"
+
+msgid "You should enter %1 characters."
+msgstr "crwdns99212:0%1crwdne99212:0"
+
+msgid "You will be redirected to a third-party website which is not owned by Binary.com."
+msgstr "crwdns99226:0crwdne99226:0"
+
+msgid "You will not be able to change your fiat account's currency after creating this MT5 account. Are you sure you want to proceed?"
+msgstr "crwdns99240:0crwdne99240:0"
+
+msgid "You will not be able to change your fiat account's currency after making this deposit. Are you sure you want to proceed?"
+msgstr "crwdns99242:0crwdne99242:0"
+
+msgid "You win the payout if the market price does not end in the digit you have selected."
+msgstr "crwdns99246:0crwdne99246:0"
+
+msgid "You win the payout if the market price ends in the digit you have selected."
+msgstr "crwdns99248:0crwdne99248:0"
+
+msgid "You'll need to restart your verification on your computer"
+msgstr "crwdns163168:0crwdne163168:0"
+
+msgid "You've made no transactions of this type up to this date."
+msgstr "crwdns163170:0crwdne163170:0"
+
+msgid "Your %1 day withdrawal limit is currently %2%3."
+msgstr "crwdns118352:0%1crwdnd118352:0%2crwdnd118352:0%3crwdne118352:0"
+
+msgid "Your account has no Login/Logout activity."
+msgstr "crwdns99282:0crwdne99282:0"
+
+msgid "Your account is fully authenticated and your withdrawal limits have been lifted."
+msgstr "crwdns99286:0crwdne99286:0"
+
+msgid "Your account is restricted. Kindly %1contact customer support%2 for assistance."
+msgstr "crwdns123204:0%1ccrwdnd123204:0%2crwdne123204:0"
+
+msgid "Your application to be treated as a professional client is being processed."
+msgstr "crwdns99300:0crwdne99300:0"
+
+msgid "Your cashier is locked."
+msgstr "crwdns99304:0crwdne99304:0"
+
+msgid "Your changes have been updated successfully."
+msgstr "crwdns99308:0crwdne99308:0"
+
+msgid "Your changes have been updated."
+msgstr "crwdns99310:0crwdne99310:0"
+
+msgid "Your computer may take a few seconds to update"
+msgstr "crwdns163172:0crwdne163172:0"
+
+msgid "Your demo account balance is currently %1 or less. You may top up your account with an additional %2."
+msgstr "crwdns99314:0%1crwdnd99314:0%2crwdne99314:0"
+
+msgid "Your face is needed in the selfie"
+msgstr "crwdns163174:0crwdne163174:0"
+
+msgid "Your fiat account's currency is currently set to %1."
+msgstr "crwdns99318:0%1crwdne99318:0"
+
+msgid "Your fiat account's currency is set to %1."
+msgstr "crwdns99320:0%1crwdne99320:0"
+
+msgid "Your link will expire in one hour"
+msgstr "crwdns163176:0crwdne163176:0"
+
+msgid "Your mobile link will expire in one hour"
+msgstr "crwdns163178:0crwdne163178:0"
+
+msgid "Your password cannot be the same as your email address."
+msgstr "crwdns163180:0crwdne163180:0"
+
+msgid "Your password has been successfully reset. Please log into your account using your new password."
+msgstr "crwdns99330:0crwdne99330:0"
+
+msgid "Your preferred time interval between each report:"
+msgstr "crwdns163182:0crwdne163182:0"
+
+msgid "Your professional client request is %1not approved%2."
+msgstr "crwdns99334:0%1ncrwdnd99334:0%2crwdne99334:0"
+
+msgid "Your request to transfer %1 %2 from %3 to %4 has been successfully processed."
+msgstr "crwdns99354:0%1crwdnd99354:0%2crwdnd99354:0%3crwdnd99354:0%4crwdne99354:0"
+
+msgid "Your request to withdraw %1 %2 from your account %3 to Payment Agent %4 account has been successfully processed."
+msgstr "crwdns99356:0%1crwdnd99356:0%2crwdnd99356:0%3crwdnd99356:0%4crwdne99356:0"
+
+msgid "Your session duration limit will end in %1 seconds."
+msgstr "crwdns99358:0%1crwdne99358:0"
+
+msgid "Your settings have been updated successfully."
+msgstr "crwdns99360:0crwdne99360:0"
+
+msgid "Your token has expired or is invalid. Please click %1here%2 to restart the verification process."
+msgstr "crwdns99364:0%1hecrwdnd99364:0%2crwdne99364:0"
+
+msgid "Your token has expired or is invalid. Please click <a href=\"%1\">here</a> to restart the verification process."
+msgstr "crwdns99366:0%1crwdne99366:0"
+
+msgid "Your trading statistics since %1."
+msgstr "crwdns99368:0%1crwdne99368:0"
+
+msgid "Your transaction reference is"
+msgstr "crwdns99370:0crwdne99370:0"
+
+msgid "Your transaction reference number is %1"
+msgstr "crwdns99372:0%1crwdne99372:0"
+
+msgid "Your virtual balance has been reset."
+msgstr "crwdns163184:0crwdne163184:0"
+
+msgid "Your web browser (%1) is out of date and may affect your trading experience. Proceed at your own risk. %2Update browser%3"
+msgstr "crwdns99376:0%1crwdnd99376:0%2crwdnd99376:0%3crwdne99376:0"
+
+msgid "Your withdrawal limit is %1%2."
+msgstr "crwdns118356:0%1crwdnd118356:0%2crwdne118356:0"
+
+msgid "account"
+msgstr "crwdns99410:0crwdne99410:0"
+
+msgid "accounts"
+msgstr "crwdns99412:0crwdne99412:0"
+
+msgid "back"
+msgstr "crwdns163186:0crwdne163186:0"
+
+msgid "binary options, forex, forex trading, online trading, financial trading, binary trading, index trading, trading stock indices, forex trades, trading commodities, binary options strategy, binary broker, binary bet, binary options trading platform, binary strategy, finance, investment, trading"
+msgstr "crwdns118358:0crwdne118358:0"
+
+msgid "close"
+msgstr "crwdns163188:0crwdne163188:0"
+
+msgid "day"
+msgstr "crwdns99426:0crwdne99426:0"
+
+msgid "days"
+msgstr "crwdns99428:0crwdne99428:0"
+
+msgid "details"
+msgstr "crwdns99430:0crwdne99430:0"
+
+msgid "e.g. United States"
+msgstr "crwdns163190:0crwdne163190:0"
+
+msgid "e.g. frontend.binaryws.com"
+msgstr "crwdns99436:0crwdne99436:0"
+
+msgid "for account %1"
+msgstr "crwdns99438:0%1crwdne99438:0"
+
+msgid "hour"
+msgstr "crwdns99442:0crwdne99442:0"
+
+msgid "hours"
+msgstr "crwdns99444:0crwdne99444:0"
+
+msgid "including Deal Cancel. Fee"
+msgstr "crwdns99448:0crwdne99448:0"
+
+msgid "letters"
+msgstr "crwdns99454:0crwdne99454:0"
+
+msgid "login"
+msgstr "crwdns99456:0crwdne99456:0"
+
+msgid "logout"
+msgstr "crwdns99458:0crwdne99458:0"
+
+msgid "minute"
+msgstr "crwdns99464:0crwdne99464:0"
+
+msgid "minutes"
+msgstr "crwdns99466:0crwdne99466:0"
+
+msgid "numbers"
+msgstr "crwdns99470:0crwdne99470:0"
+
+msgid "or"
+msgstr "crwdns163192:0crwdne163192:0"
+
+msgid "or upload photo – no scans or photocopies"
+msgstr "crwdns163194:0crwdne163194:0"
+
+msgid "second"
+msgstr "crwdns99482:0crwdne99482:0"
+
+msgid "seconds"
+msgstr "crwdns99484:0crwdne99484:0"
+
+msgid "space"
+msgstr "crwdns99496:0crwdne99496:0"
+
+msgid "tick"
+msgstr "crwdns99522:0crwdne99522:0"
+
+msgid "ticks"
+msgstr "crwdns99524:0crwdne99524:0"
+
+msgid "today"
+msgstr "crwdns99526:0crwdne99526:0"
+
+msgid "today, Fridays"
+msgstr "crwdns99528:0crwdne99528:0"
+
+msgid "virtual money credit to account"
+msgstr "crwdns99530:0crwdne99530:0"
+
+msgid "{SPAIN ONLY}However, Binary Investments (Europe) Ltd has assessed your knowledge and experience and deems the product appropriate for you."
+msgstr "crwdns99534:0{SPAIN ONLY}crwdne99534:0"
+
+msgid "{SPAIN ONLY}This is a product with leverage. You should be aware that losses may be higher than the amount initially paid to purchase the product."
+msgstr "crwdns99536:0{SPAIN ONLY}crwdne99536:0"
+
+msgid "{SPAIN ONLY}You are about to purchase a product that is not simple and may be difficult to understand: Contracts for difference and forex. As a general rule, the CNMV considers that such products are not appropriate for retail clients, due to their complexity."
+msgstr "crwdns118360:0{SPAIN ONLY}crwdne118360:0"
+
